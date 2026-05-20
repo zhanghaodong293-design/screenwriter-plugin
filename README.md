@@ -4,6 +4,8 @@
 
 > 核心信念:**好剧本是改出来的,不是写出来的。** 结构先行、人物为王、对白见人、每场有转折。
 
+`v1.3.0` · 中式剧本格式 · 全库可检索 + 通用读取器(扫描件自动 OCR) · 8 部经典精读拆解(覆盖全 8 类型)
+
 ---
 
 ## 三轴(子命令)
@@ -45,13 +47,24 @@
 
 ---
 
-## 关于经典剧本范例库
+## 关于经典剧本范例库 & 读取器
 
-技能可调取一座本地经典剧本库作为**范例对照**(见 `skills/screenwriter/references/reference_library_index.md`)。
+技能可调取一座本地经典剧本库作为**范例对照**:精选类型范例见 `references/reference_library_index.md`,**8 部精读拆解**(教父/大佛普拉斯/唐人街/七宗罪/一夜风流/萨利机长/生死时速/可怜的东西)见 `references/case_studies.md`,全库清单见 `references/library_catalog.md`。
 
-- **范例库本身不随插件分发**(版权 + 体积原因)。索引里记录的是本机路径。
+- **范例库本身不随插件分发**(版权 + 体积原因)。索引/目录里记录的是作者本机路径。
 - 没有范例库时技能**照常工作**——库仅用于"向经典学结构"的可选增强。
-- 若你有自己的剧本库,改 `reference_library_index.md` 里的路径与片单即可。
+- 若你有自己的剧本库,改 `reference_library_index.md` / `library_catalog.md` 里的路径与片单,或运行 `python skills/screenwriter/scripts/build_catalog.py`(改脚本顶部 `ROOT`)重建目录。
+
+### 通用读取器与依赖(可选)
+
+`skills/screenwriter/scripts/read_script.py` 能把任意格式的剧本抽成纯文本(`.docx`/`.txt`/`.html`/文字版 PDF 直读,**扫描版 PDF 自动 OCR**,中英文)。用它需要装三个 Python 包:
+
+```bash
+pip install pymupdf rapidocr-onnxruntime python-docx
+```
+
+- 仅在**需要读取本地剧本文件**时用到;**不装也不影响**技能的核心创作功能(创意/人物/大纲/分场/成稿/评析)。
+- 用法:`python skills/screenwriter/scripts/read_script.py "<剧本路径>" [--max N] [--ocr-pages N]`
 
 ---
 
@@ -64,7 +77,13 @@ screenwriter-plugin/
 │   └── marketplace.json
 ├── commands/              # 7 个 /sw-* slash 命令
 ├── skills/
-│   └── screenwriter/      # 技能本体(SKILL.md + references + templates + examples)
+│   └── screenwriter/
+│       ├── SKILL.md · MODE_REGISTRY.md
+│       ├── references/    # craft/结构/人物/对白/格式/类型/时长/诊断
+│       │                  #  + case_studies.md(8 部精读拆解)+ library_catalog.md(全库目录)
+│       ├── templates/     # logline/人物/节拍表/分场表/成稿
+│       ├── examples/
+│       └── scripts/       # read_script.py(通用读取器/OCR)+ build_catalog.py
 └── README.md
 ```
 
