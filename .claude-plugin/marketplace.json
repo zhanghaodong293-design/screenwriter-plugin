@@ -1,0 +1,16 @@
+{
+  "name": "screenwriter",
+  "owner": {
+    "name": "ZHD"
+  },
+  "description": "编剧大师 — 中文剧本全流程开发工作台。",
+  "plugins": [
+    {
+      "name": "screenwriter",
+      "source": "./",
+      "description": "8 大类型 × 4 档时长 × 6 开发阶段,中式剧本格式 + 经典剧本范例库索引。含 7 个 /sw-* slash 命令。",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}

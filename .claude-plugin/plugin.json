@@ -1,0 +1,21 @@
+{
+  "name": "screenwriter",
+  "version": "1.0.0",
+  "description": "编剧大师 — 按「影片类型 × 时长 × 开发阶段」三轴生成中文剧本与全套开发文档。8 大类型 × 4 档时长 × 6 个开发阶段(创意/logline → 人物 → 大纲节拍 → 分场 → 成稿 → 评析),中式剧本格式,内置世界经典电影剧本范例库索引。",
+  "author": {
+    "name": "ZHD"
+  },
+  "license": "MIT",
+  "keywords": [
+    "screenwriting",
+    "screenplay",
+    "剧本",
+    "编剧",
+    "中式剧本",
+    "story-development",
+    "beat-sheet",
+    "film",
+    "drama",
+    "horror"
+  ]
+}
