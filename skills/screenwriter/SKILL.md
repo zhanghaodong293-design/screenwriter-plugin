@@ -2,7 +2,7 @@
 name: screenwriter
 description: "编剧大师 / Screenwriting master. 按「影片类型 × 时长 × 开发阶段」三轴,生成中文剧本与全套开发文档。8 大类型(剧情/喜剧/爱情/动作冒险/悬疑犯罪/科幻奇幻/恐怖惊悚/历史传记)× 4 档时长(微电影 1-5min / 短片 5-30min / 院线长片 90-120min / 剧集单集 40-50min)。全开发流程:一句话创意 → logline → 人物小传 → 故事大纲(节拍表)→ 分场表 → 成稿(中式剧本格式)→ 评析诊断。内置世界经典电影剧本范例库,可按类型调取对照学习。Triggers: 写剧本, 写一个剧本, 剧本创作, 编剧, 帮我写故事, 故事大纲, 写分场, 分场表, 人物小传, logline, 一句话故事, 节拍表, beat sheet, 剧本评析, 剧本诊断, 改剧本, 写微电影, 写短片, 写长片, 写剧集, 写一个悬疑/爱情/喜剧/科幻/恐怖/动作/历史 短片或长片, screenplay, screenwriting, write a script, write a screenplay."
 metadata:
-  version: "1.0.0"
+  version: "1.3.0"
   last_updated: "2026-05-21"
   status: active
   output_language: zh-CN
@@ -70,8 +70,10 @@ metadata:
 
 技能挂接了一座本地片库(1957 部中外经典剧本)。当需要**示范某类型的写法、节拍或对白**时,按 `references/reference_library_index.md` 的索引,用 Read/转换工具调取对应文件作为范例对照——
 
-- `.txt`/`.html` 直接读;`.docx` 用 `npx --yes mammoth "文件" /tmp/out.html` 提取;`.pdf` 用 Read 工具读(可指定页码)。
+- **找片**:精选类型范例查 `references/reference_library_index.md`;精读拆解查 `references/case_studies.md`;**全库 1957 部清单**查 `references/library_catalog.md`(含每部读取方式)。
+- **读任意一部(含扫描件)**:用 `python scripts/read_script.py "<片库根目录>/<文件名>"`(技能目录下的脚本)。`.docx`/`.txt`/`.html`/文字版 PDF 直抽,**扫描版 PDF 自动 OCR**(中英文);可加 `--max N` 限字数、`--ocr-pages N` 限 OCR 页数。片库根目录见 `library_catalog.md` 顶部。
 - **学其骨,不抄其肉**:借鉴结构与手法,绝不照搬台词或桥段。
+- **已精读拆解(8 部,覆盖全 8 类型)**:《教父》《大佛普拉斯》《唐人街》《七宗罪》《一夜风流》《萨利机长》《生死时速》《可怜的东西》——结构与技法基于真文本精读,拆进 `references/case_studies.md`。创作卡壳时**优先查它**,看经典如何解决同类问题。
 
 ---
 
@@ -125,6 +127,10 @@ metadata:
 | 参考 | `references/duration_blueprints.md` | 4 档时长:结构/场数/节拍密度/适配 |
 | 参考 | `references/revision_diagnostics.md` | 评析诊断 checklist + 修改单格式 |
 | 参考 | `references/reference_library_index.md` | 片库按类型索引(真实文件名+路径) |
+| 参考 | `references/case_studies.md` | 5 部经典精读拆解(结构/技法,带出处)+ 横向规律 |
+| 参考 | `references/library_catalog.md` | 全库 1957 部清单 + 每部读取方式(自动生成) |
+| 脚本 | `scripts/read_script.py` | 通用读取器:任意格式→文本(扫描 PDF 自动 OCR) |
+| 脚本 | `scripts/build_catalog.py` | 扫描全库、重建 library_catalog.md |
 | 模板 | `templates/logline_template.md` | logline + 主题 |
 | 模板 | `templates/character_bio_template.md` | 人物小传 |
 | 模板 | `templates/beat_sheet_template.md` | 节拍表(随时长变体) |

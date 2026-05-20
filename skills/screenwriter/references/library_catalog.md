@@ -1,0 +1,2026 @@
+# 全库目录 — Library Catalog (自动生成)
+
+片库根目录:`C:\Users\ZHD\Desktop\世界经典电影剧本中外电影经典剧本`
+
+> 读取任意一部:`python scripts/read_script.py "<根目录>/<文件名>"`(扫描件自动 OCR)。
+> 下面的「类型」是按**片名关键词的粗略推测**,仅供检索;**可靠的类型范例**见 `reference_library_index.md` 与 `case_studies.md`。
+
+**总计 1957 部**。读取方式分布:docx直读 1044 · PDF 853 · .doc 47 · txt直读 8 · html直读 5
+
+类型推测分布:未分类 1666 · 爱情 97 · 悬疑/犯罪 55 · 历史/传记 32 · 武侠/古装 24 · 动作/冒险 16 · 科幻/奇幻 12 · 恐怖/惊悚 11 · 战争 10 · 喜剧 9 · 动画 8 · 悬疑/犯罪/科幻/奇幻 8 · 爱情/动作/冒险 2 · 恐怖/惊悚/爱情 2 · 恐怖/惊悚/战争 1 · 爱情/武侠/古装 1 · 恐怖/惊悚/悬疑/犯罪 1 · 爱情/喜剧 1 · 科幻/奇幻/动画 1
+
+---
+
+## 未分类(1666)
+
+- 03.《特战先驱》第三集.doc  `[.doc(需转docx)]`
+- 04.《特战先驱》第四集.doc  `[.doc(需转docx)]`
+- 05.《特战先驱》第五集.doc  `[.doc(需转docx)]`
+- 06.《特战先驱》第六集.doc  `[.doc(需转docx)]`
+- 07.《特战先驱》第七集.doc  `[.doc(需转docx)]`
+- 08.《特战先驱》第八集.doc  `[.doc(需转docx)]`
+- 09.《特战先驱》第九集.doc  `[.doc(需转docx)]`
+- 10.《特战先驱》第十集.doc  `[.doc(需转docx)]`
+- 102忠狗 英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 1900年.docx  `[docx直读]`
+- 21克.pdf  `[PDF·文字直读]`
+- 2407.docx  `[docx直读]`
+- 2407.pdf  `[PDF·文字直读]`
+- 8½.docx  `[docx直读]`
+- 8英里.pdf  `[PDF·文字直读]`
+- American Fiction 美国小说.pdf  `[PDF·文字直读]`
+- Anatomy of a Fall 坠落的审判.pdf  `[PDF·文字直读]`
+- Apocalypse Now.doc  `[.doc(需转docx)]`
+- Barbie‎ 芭比.pdf  `[PDF·文字直读]`
+- Basic Instinct.doc  `[.doc(需转docx)]`
+- Chinatown.doc  `[.doc(需转docx)]`
+- Cinema.Paradiso.(天堂电影院英文剧本).pdf  `[PDF·扫描→OCR]`
+- Do_《大佛普拉斯》剧本.docx  `[docx直读]`
+- GODFATHR.TXT  `[txt直读]`
+- Jackie Brown.doc  `[.doc(需转docx)]`
+- Jerry Maguire.doc  `[.doc(需转docx)]`
+- Killers of the Flower Moon‎ 花月杀手.pdf  `[PDF·文字直读]`
+- K街政客.pdf  `[PDF·文字直读]`
+- LittleMermaind.html  `[html直读]`
+- Maestro‎ 音乐大师.pdf  `[PDF·文字直读]`
+- May December‎ 五月十二月.pdf  `[PDF·文字直读]`
+- Poor Things‎ 可怜的东西.pdf  `[PDF·文字直读]`
+- Pulp Fiction.doc  `[.doc(需转docx)]`
+- Return of the Jedi.doc  `[.doc(需转docx)]`
+- Speed.pdf  `[PDF·文字直读]`
+- The Holdovers‎ 留校联盟.pdf  `[PDF·文字直读]`
+- The Zone of Interest‎ 利益区域.pdf  `[PDF·文字直读]`
+- Total Recall.doc  `[.doc(需转docx)]`
+- U形转弯.docx  `[docx直读]`
+- U形转弯.pdf  `[PDF·扫描→OCR]`
+- [致命魔术].Prestige.(Christopher.Nolan).screenplay(ED2000.COM).pdf  `[PDF·文字直读]`
+- ageofinn.txt  `[txt直读]`
+- evita.txt  `[txt直读]`
+- gf2transcript.html  `[html直读]`
+- maskscript.doc  `[.doc(需转docx)]`
+- onlyyou.html  `[html直读]`
+- prisoners_sp.pdf  `[PDF·文字直读]`
+- s_seatl.html  `[html直读]`
+- sex_lies_and_videotape.txt  `[txt直读]`
+- shine.html  `[html直读]`
+- 《18号飞机库》电影剧本.docx  `[docx直读]`
+- 《1900年》电影剧本.docx  `[docx直读]`
+- 《21克》电影剧本.docx  `[docx直读]`
+- 《8英里》.pdf  `[PDF·文字直读]`
+- 《U形转弯》电影剧本.docx  `[docx直读]`
+- 《W的悲剧》电影剧本.docx  `[docx直读]`
+- 《一个叫欧维的男人决定去死》剧本.docx  `[docx直读]`
+- 《一个明星的遭遇》电影剧本.docx  `[docx直读]`
+- 《一夜狂热》电影剧本.docx  `[docx直读]`
+- 《一夜风流》电影剧本.docx  `[docx直读]`
+- 《一曲难忘》电影剧本.docx  `[docx直读]`
+- 《一生中的两次》电影剧本.docx  `[docx直读]`
+- 《一盘没有下完的棋》电影剧本.docx  `[docx直读]`
+- 《七武士》电影剧本.docx  `[docx直读]`
+- 《七美人》电影剧本.docx  `[docx直读]`
+- 《三个男人和一个摇篮》电影剧本.docx  `[docx直读]`
+- 《三十九级台阶》.docx  `[docx直读]`
+- 《三块广告牌》剧本.docx  `[docx直读]`
+- 《三文役者》电影剧本.docx  `[docx直读]`
+- 《三级十字勋章》电影剧本.docx  `[docx直读]`
+- 《三轮车夫》电影剧本.docx  `[docx直读]`
+- 《上海浮生记》电影剧本.docx  `[docx直读]`
+- 《上行列车》电影剧本.docx  `[docx直读]`
+- 《下山事件》电影剧本.docx  `[docx直读]`
+- 《不合时宜的人》电影剧本.docx  `[docx直读]`
+- 《不死的硬汉》电影剧本.docx  `[docx直读]`
+- 《不毛地带》电影剧本.docx  `[docx直读]`
+- 《不要滑稽杂志！》电影剧本.docx  `[docx直读]`
+- 《东京物语》电影剧本.docx  `[docx直读]`
+- 《东方—西方》电影剧本.docx  `[docx直读]`
+- 《丧礼》电影剧本.docx  `[docx直读]`
+- 《中国合伙人》.pdf  `[PDF·文字直读]`
+- 《中央车站》电影剧本.docx  `[docx直读]`
+- 《中途岛海空战》电影剧本.docx  `[docx直读]`
+- 《乘风破浪》剧本.docx  `[docx直读]`
+- 《九降风》电影剧本.docx  `[docx直读]`
+- 《乱》电影剧本.docx  `[docx直读]`
+- 《乱世佳人》电影剧本.docx  `[docx直读]`
+- 《事件》电影剧本.docx  `[docx直读]`
+- 《二十四只眼睛》电影剧本.docx  `[docx直读]`
+- 《五点到七点的克莱奥》电影剧本.docx  `[docx直读]`
+- 《交易所》电影剧本.docx  `[docx直读]`
+- 《人人都找猫》电影剧本.docx  `[docx直读]`
+- 《人的证明》电影剧本.docx  `[docx直读]`
+- 《人鱼传说》电影剧本.docx  `[docx直读]`
+- 《今天的典子》电影剧本.docx  `[docx直读]`
+- 《从你的全世界路过》.docx  `[docx直读]`
+- 《从工资到工资》电影剧本.docx  `[docx直读]`
+- 《仪式》电影剧本.docx  `[docx直读]`
+- 《伊斯特·康》电影剧本.docx  `[docx直读]`
+- 《休克疗法》电影剧本.docx  `[docx直读]`
+- 《众神与恶魔》电影剧本.docx  `[docx直读]`
+- 《传道》电影剧本.docx  `[docx直读]`
+- 《你见过大海吗》电影剧本.docx  `[docx直读]`
+- 《佩吉·休出嫁》电影剧本.docx  `[docx直读]`
+- 《侦讯记》电影剧本.docx  `[docx直读]`
+- 《俄罗斯的田野》电影剧本.docx  `[docx直读]`
+- 《保佑我，我的护身符》电影剧本.docx  `[docx直读]`
+- 《假面》电影剧本.docx  `[docx直读]`
+- 《偷自行车的人》电影剧本.docx  `[docx直读]`
+- 《偷越巴黎》电影剧本.docx  `[docx直读]`
+- 《傀儡人生》电影剧本.docx  `[docx直读]`
+- 《儿子》电影剧本.docx  `[docx直读]`
+- 《克雷默夫妇》电影剧本.docx  `[docx直读]`
+- 《全世界的黄金》电影剧本.docx  `[docx直读]`
+- 《全蚀》电影剧本.docx  `[docx直读]`
+- 《八甲田山》电影剧本.docx  `[docx直读]`
+- 《公牛星座》电影剧本.docx  `[docx直读]`
+- 《关于我母亲的一切》电影剧本.docx  `[docx直读]`
+- 《关山飞渡》电影剧本.docx  `[docx直读]`
+- 《养家之人》剧本.pdf  `[PDF·文字直读]`
+- 《内布拉斯加》电影剧本.docx  `[docx直读]`
+- 《内心世界》电影剧本.docx  `[docx直读]`
+- 《再见，孩子们》电影剧本.docx  `[docx直读]`
+- 《冠军》电影剧本.docx  `[docx直读]`
+- 《冬之花》电影剧本.docx  `[docx直读]`
+- 《冬天的早晨》电影剧本.docx  `[docx直读]`
+- 《冰冻之河》电影剧本.docx  `[docx直读]`
+- 《冲动杀人！儿子啊》电影剧本.docx  `[docx直读]`
+- 《出租汽车司机》剧本.pdf  `[PDF·文字直读]`
+- 《出租车司机》电影剧本.docx  `[docx直读]`
+- 《刑警队》电影剧本.docx  `[docx直读]`
+- 《列车上的陌生人》电影剧本.docx  `[docx直读]`
+- 《列那狐》电影剧本.docx  `[docx直读]`
+- 《别了，武器》电影剧本.docx  `[docx直读]`
+- 《别人的口味》电影剧本.docx  `[docx直读]`
+- 《动乱》电影剧本.docx  `[docx直读]`
+- 《勇敢的心》电影剧本.docx  `[docx直读]`
+- 《化石的荒野》.docx  `[docx直读]`
+- 《医生》电影剧本.docx  `[docx直读]`
+- 《十二公民》剧本.docx  `[docx直读]`
+- 《十二怒汉》电影剧本.docx  `[docx直读]`
+- 《十诫》电影剧本.docx  `[docx直读]`
+- 《十诫之五：关于杀人的短片》电影剧本.docx  `[docx直读]`
+- 《华丽家族》电影剧本.docx  `[docx直读]`
+- 《华尔街》电影剧本.docx  `[docx直读]`
+- 《南方的野兽》电影剧本.docx  `[docx直读]`
+- 《卡尔纳克咖啡馆》电影剧本.docx  `[docx直读]`
+- 《卡米拉》电影剧本.docx  `[docx直读]`
+- 《卡萨布兰卡》电影剧本.docx  `[docx直读]`
+- 《卡里伽利博士的小屋》电影剧本.docx  `[docx直读]`
+- 《印度之行》电影剧本.docx  `[docx直读]`
+- 《危楼风波》电影剧本.docx  `[docx直读]`
+- 《厌恶》电影剧本.docx  `[docx直读]`
+- 《去，看一看》电影剧本.docx  `[docx直读]`
+- 《参孙与德莱拉》电影剧本.docx  `[docx直读]`
+- 《双胞胎》电影剧本.docx  `[docx直读]`
+- 《发多，民歌女星的故事》电影剧本.docx  `[docx直读]`
+- 《叛逆天使的陨落》电影剧本.docx  `[docx直读]`
+- 《古怪的女人》电影剧本.docx  `[docx直读]`
+- 《古都》电影剧本.docx  `[docx直读]`
+- 《只有我知道》电影剧本.docx  `[docx直读]`
+- 《后窗》电影剧本.docx  `[docx直读]`
+- 《吕西安·拉康布》电影剧本.docx  `[docx直读]`
+- 《吾土吾民》电影剧本.docx  `[docx直读]`
+- 《呼啸山庄》电影剧本.docx  `[docx直读]`
+- 《呼喊与耳语》电影剧本.docx  `[docx直读]`
+- 《哭声》剧本_2.docx  `[docx直读]`
+- 《哭泣游戏》电影剧本.docx  `[docx直读]`
+- 《啊！春天》电影剧本.docx  `[docx直读]`
+- 《啊，野麦岭·新绿篇》电影剧本.docx  `[docx直读]`
+- 《啊，野麦岭》电影剧本.docx  `[docx直读]`
+- 《喜欢你》.docx  `[docx直读]`
+- 《喜欢你》剧本大纲最终.pdf  `[PDF·文字直读]`
+- 《嘉年华》剧本.docx  `[docx直读]`
+- 《四百下》电影剧本.docx  `[docx直读]`
+- 《回家》电影剧本.docx  `[docx直读]`
+- 《在云端》电影剧本.docx  `[docx直读]`
+- 《在那里》电影剧本.docx  `[docx直读]`
+- 《地震列岛》电影剧本.docx  `[docx直读]`
+- 《坏蛋睡得最香》电影剧本.docx  `[docx直读]`
+- 《埃及妖后》电影剧本.docx  `[docx直读]`
+- 《塞尔玛与路易斯》电影剧本.docx  `[docx直读]`
+- 《墓石城》电影剧本.docx  `[docx直读]`
+- 《墨西哥万岁》电影剧本.docx  `[docx直读]`
+- 《复仇在我》电影剧本.docx  `[docx直读]`
+- 《外科医生》电影剧本.docx  `[docx直读]`
+- 《夜幕不久降临》电影剧本.docx  `[docx直读]`
+- 《夜间守门人》电影剧本.docx  `[docx直读]`
+- 《大佛普拉斯》剧本.docx  `[docx直读]`
+- 《大地在波动》电影剧本.docx  `[docx直读]`
+- 《大玩家》电影剧本.docx  `[docx直读]`
+- 《大诱拐》电影剧本.docx  `[docx直读]`
+- 《天堂的孩子》电影剧本.docx  `[docx直读]`
+- 《天才抢手》剧本.docx  `[docx直读]`
+- 《天才里普利先生》电影剧本.docx  `[docx直读]`
+- 《天生杀手》电影剧本.docx  `[docx直读]`
+- 《天网难逃》电影剧本.docx  `[docx直读]`
+- 《太阳》电影剧本.docx  `[docx直读]`
+- 《太阳帝国》电影剧本.docx  `[docx直读]`
+- 《太阳浴血记》电影剧本.docx  `[docx直读]`
+- 《失乐园》剧本.doc  `[.doc(需转docx)]`
+- 《奇怪的她》剧本.docx  `[docx直读]`
+- 《女人的心》电影剧本.docx  `[docx直读]`
+- 《女人的香味》电影剧本.docx  `[docx直读]`
+- 《女仆日记》电影剧本.docx  `[docx直读]`
+- 《女学生的朋友》电影剧本.docx  `[docx直读]`
+- 《女政委》电影剧本.docx  `[docx直读]`
+- 《女牢案件》电影剧本.docx  `[docx直读]`
+- 《女税务官》电影剧本.docx  `[docx直读]`
+- 《女衔》电影剧本.docx  `[docx直读]`
+- 《奴仆》电影剧本.docx  `[docx直读]`
+- 《如释重负》电影剧本.docx  `[docx直读]`
+- 《妇女俱乐部》电影剧本.docx  `[docx直读]`
+- 《妈妈一百岁》电影剧本.docx  `[docx直读]`
+- 《妈妈的秘密》电影剧本.docx  `[docx直读]`
+- 《妈妈，吻您》电影剧本.docx  `[docx直读]`
+- 《姊妹坡》电影剧本.docx  `[docx直读]`
+- 《威尼斯面包师的儿子》电影剧本.docx  `[docx直读]`
+- 《婴儿车》电影剧本.docx  `[docx直读]`
+- 《嫁妆一牛车》电影剧本.docx  `[docx直读]`
+- 《孔雀》电影剧本.pdf  `[PDF·文字直读]`
+- 《宁静的长河》电影剧本.docx  `[docx直读]`
+- 《官方说法》电影剧本.docx  `[docx直读]`
+- 《害怕夜间出门》电影剧本.docx  `[docx直读]`
+- 《家庭内部肖像》电影剧本.docx  `[docx直读]`
+- 《家族》电影剧本.docx  `[docx直读]`
+- 《家族游戏》电影剧本.docx  `[docx直读]`
+- 《寅次郎的晚霞歌》电影剧本.docx  `[docx直读]`
+- 《密西西比在燃烧》电影剧本.docx  `[docx直读]`
+- 《对她说》电影剧本.docx  `[docx直读]`
+- 《寻梦环游记》剧本_.docx  `[docx直读]`
+- 《小丑》.doc  `[.doc(需转docx)]`
+- 《小人物大英雄》电影剧本.docx  `[docx直读]`
+- 《小女贼》电影剧本.docx  `[docx直读]`
+- 《小山回家》电影剧本.docx  `[docx直读]`
+- 《少女》电影剧本.docx  `[docx直读]`
+- 《少数派报告》电影剧本.pdf  `[PDF·文字直读]`
+- 《少男与少女》电影剧本.docx  `[docx直读]`
+- 《屋顶上的人》电影剧本.docx  `[docx直读]`
+- 《嵯峨野之宿》电影剧本.docx  `[docx直读]`
+- 《左轮—357》电影剧本.docx  `[docx直读]`
+- 《巨人与玩具》电影剧本.docx  `[docx直读]`
+- 《巴比伦》电影剧本.docx  `[docx直读]`
+- 《巴特菲尔德8号》电影剧本.docx  `[docx直读]`
+- 《巴里·林登》电影剧本.docx  `[docx直读]`
+- 《巴顿·芬克》电影剧本.docx  `[docx直读]`
+- 《布加勒斯特居民证》电影剧本.docx  `[docx直读]`
+- 《布奇·卡西迪和“太阳舞小子”》电影剧本.docx  `[docx直读]`
+- 《师父》剧本.docx  `[docx直读]`
+- 《帝银事件》电影剧本.docx  `[docx直读]`
+- 《幼儿园》电影剧本.docx  `[docx直读]`
+- 《废市》电影剧本.docx  `[docx直读]`
+- 《废车场的风波》电影剧本.docx  `[docx直读]`
+- 《弗兰西丝》电影剧本.docx  `[docx直读]`
+- 《当幸福来敲门》剧本.docx  `[docx直读]`
+- 《当机立断》电影剧本.docx  `[docx直读]`
+- 《影子写手》电影剧本.docx  `[docx直读]`
+- 《影子武士》电影剧本.docx  `[docx直读]`
+- 《彼岸花》电影剧本.docx  `[docx直读]`
+- 《往事不堪回首》电影剧本.docx  `[docx直读]`
+- 《德克萨斯的巴黎》电影剧本.docx  `[docx直读]`
+- 《心中的秘密》电影剧本.docx  `[docx直读]`
+- 《心灵捕手》.docx  `[docx直读]`
+- 《心灵捕手》.pdf  `[PDF·文字直读]`
+- 《忍川》电影剧本.docx  `[docx直读]`
+- 《忠诚》电影剧本.docx  `[docx直读]`
+- 《快来吧，礼拜天》电影剧本.docx  `[docx直读]`
+- 《快跑，劳拉》电影剧本.docx  `[docx直读]`
+- 《性格》电影剧本.docx  `[docx直读]`
+- 《性，谎言，录像带》电影剧本.docx  `[docx直读]`
+- 《怪物召唤》剧本.docx  `[docx直读]`
+- 《恐惧的代价》电影剧本.docx  `[docx直读]`
+- 《悔悟》电影剧本.docx  `[docx直读]`
+- 《愿望的年代》电影剧本.docx  `[docx直读]`
+- 《我不是潘金莲》非原创剧本.docx  `[docx直读]`
+- 《我不是药神》.doc  `[.doc(需转docx)]`
+- 《我与玛丽莲的一周》电影剧本.docx  `[docx直读]`
+- 《我两岁》电影剧本.docx  `[docx直读]`
+- 《我从未答应你一座玫瑰园》电影剧本.docx  `[docx直读]`
+- 《我们的世界》剧本_.docx  `[docx直读]`
+- 《我们跳舞好吗？》电影剧本.docx  `[docx直读]`
+- 《我嫁了一个影子》电影剧本.docx  `[docx直读]`
+- 《我没有做》电影剧本.docx  `[docx直读]`
+- 《我的丧尸女友》剧本.pdf  `[PDF·文字直读]`
+- 《我的父亲》电影剧本.docx  `[docx直读]`
+- 《我的生涯》电影剧本.docx  `[docx直读]`
+- 《我的秘密之花》电影剧本.docx  `[docx直读]`
+- 《我的道路》电影剧本.docx  `[docx直读]`
+- 《我要活》电影剧本.docx  `[docx直读]`
+- 《战地浪漫曲》电影剧本.docx  `[docx直读]`
+- 《战场的圣诞节快乐》电影剧本.docx  `[docx直读]`
+- 《战舰波将金号》电影剧本.docx  `[docx直读]`
+- 《戴金丝边眼镜的人》电影剧本.docx  `[docx直读]`
+- 《手机》.pdf  `[PDF·文字直读]`
+- 《打工女郎》电影剧本.docx  `[docx直读]`
+- 《抓贼记》电影剧本.docx  `[docx直读]`
+- 《挣脱锁链》电影剧本.docx  `[docx直读]`
+- 《换子疑云》电影剧本.docx  `[docx直读]`
+- 《掷果缘》电影剧本.docx  `[docx直读]`
+- 《摔跤吧！爸爸》.docx  `[docx直读]`
+- 《摔跤吧！爸爸》.pdf  `[PDF·文字直读]`
+- 《改编剧本》电影剧本.docx  `[docx直读]`
+- 《放大》电影剧本.docx  `[docx直读]`
+- 《故乡》电影剧本.docx  `[docx直读]`
+- 《敖德萨档案》电影剧本.docx  `[docx直读]`
+- 《敦煌》电影剧本.docx  `[docx直读]`
+- 《斩断黑手》电影剧本.docx  `[docx直读]`
+- 《断背山》电影剧本.docx  `[docx直读]`
+- 《新叶》电影剧本.docx  `[docx直读]`
+- 《方托马斯大显身手》电影剧本.docx  `[docx直读]`
+- 《无主之地》电影剧本.docx  `[docx直读]`
+- 《无愧于我的青春》电影剧本.docx  `[docx直读]`
+- 《日当正午》电影剧本.docx  `[docx直读]`
+- 《日本的悲剧》电影剧本 (2).docx  `[docx直读]`
+- 《日本的悲剧》电影剧本.docx  `[docx直读]`
+- 《明星诞生了》电影剧本.docx  `[docx直读]`
+- 《明月初升》电影剧本.docx  `[docx直读]`
+- 《映画女优》电影剧本《女影星》电影剧本.docx  `[docx直读]`
+- 《春光乍泄》完整剧本丨剧本中心.docx  `[docx直读]`
+- 《晚春》电影剧本.docx  `[docx直读]`
+- 《普通人》电影剧本.docx  `[docx直读]`
+- 《晴天，有时杀人》电影剧本.docx  `[docx直读]`
+- 《暗杀》中文剧本.docx  `[docx直读]`
+- 《暗杀》中文剧本.pdf  `[PDF·文字直读]`
+- 《暴雪将至》剧本_1.docx  `[docx直读]`
+- 《曼陀罗》电影剧本.docx  `[docx直读]`
+- 《最后一班地铁》电影剧本.docx  `[docx直读]`
+- 《月亮》电影剧本.docx  `[docx直读]`
+- 《望乡》电影剧本.docx  `[docx直读]`
+- 《未了的心愿》电影剧本.docx  `[docx直读]`
+- 《未被饶恕》电影剧本.docx  `[docx直读]`
+- 《末路狂花》.pdf  `[PDF·文字直读]`
+- 《本杰明·巴顿轶事》电影剧本.docx  `[docx直读]`
+- 《朱安党人》电影剧本.docx  `[docx直读]`
+- 《朱尔与吉姆》电影剧本.docx  `[docx直读]`
+- 《朱莉亚》电影剧本.docx  `[docx直读]`
+- 《杀人回忆》剧本.docx  `[docx直读]`
+- 《杀人的夏天》电影剧本.docx  `[docx直读]`
+- 《杀手》电影剧本.docx  `[docx直读]`
+- 《权利的游戏》第一季剧本.pdf  `[PDF·文字直读]`
+- 《村妇的天下》电影剧本.docx  `[docx直读]`
+- 《板车之歌》电影剧本.docx  `[docx直读]`
+- 《林肯》电影剧本.docx  `[docx直读]`
+- 《枯井》电影剧本.docx  `[docx直读]`
+- 《柏林的天空》电影剧本.docx  `[docx直读]`
+- 《柳暗花明》电影剧本.docx  `[docx直读]`
+- 《核事故后》电影剧本.docx  `[docx直读]`
+- 《桃色公寓》电影剧本.docx  `[docx直读]`
+- 《桥上女孩》电影剧本.docx  `[docx直读]`
+- 《梅罗妮》电影剧本.docx  `[docx直读]`
+- 《楢山节考》电影剧本.docx  `[docx直读]`
+- 《橄榄树下》电影剧本.docx  `[docx直读]`
+- 《橄榄树下无和平》电影剧本.docx  `[docx直读]`
+- 《欲念的隐晦目的》电影剧本.docx  `[docx直读]`
+- 《死而复死》电影剧本.docx  `[docx直读]`
+- 《残菊物语》电影剧本.docx  `[docx直读]`
+- 《残酷的罗曼史》电影剧本.docx  `[docx直读]`
+- 《比利·埃利奥特》电影剧本.docx  `[docx直读]`
+- 《毕业生》.pdf  `[PDF·文字直读]`
+- 《水库狗》电影剧本.docx  `[docx直读]`
+- 《汉娜姐妹》电影剧本.docx  `[docx直读]`
+- 《沉睡》电影剧本.docx  `[docx直读]`
+- 《沉默的羔羊》电影剧本.docx  `[docx直读]`
+- 《没有寄出的三封信》电影剧本.docx  `[docx直读]`
+- 《法国中尉的女人》电影剧本.docx  `[docx直读]`
+- 《泥水河》电影剧本.docx  `[docx直读]`
+- 《泥瓦匠们》电影剧本.docx  `[docx直读]`
+- 《泰坦尼克号》中文剧本.doc  `[.doc(需转docx)]`
+- 《洛城机密》.pdf  `[PDF·文字直读]`
+- 《洛拉》电影剧本.docx  `[docx直读]`
+- 《洛杉矶机密》电影剧本.docx  `[docx直读]`
+- 《活下去》电影剧本.docx  `[docx直读]`
+- 《流浪汉》电影剧本.docx  `[docx直读]`
+- 《浮云》电影剧本.docx  `[docx直读]`
+- 《海上钢琴师》电影剧本.docx  `[docx直读]`
+- 《海峡》电影剧本.docx  `[docx直读]`
+- 《海特梅被捕之夜》电影剧本.docx  `[docx直读]`
+- 《消逝的女人》电影剧本.docx  `[docx直读]`
+- 《深河》电影剧本.docx  `[docx直读]`
+- 《深色胭脂红》电影剧本.docx  `[docx直读]`
+- 《满城尽带黄金甲》剧本.pdf  `[PDF·文字直读]`
+- 《滴血钻石》电影剧本.docx  `[docx直读]`
+- 《漂亮女人》电影剧本.docx  `[docx直读]`
+- 《演员生涯》电影剧本.docx  `[docx直读]`
+- 《漫长的炎夏》电影剧本.docx  `[docx直读]`
+- 《濑户内少年棒球队》电影剧本.docx  `[docx直读]`
+- 《火红的第五乐章》电影剧本.docx  `[docx直读]`
+- 《火锅英雄》.pdf  `[PDF·文字直读]`
+- 《火锅英雄》_1.docx  `[docx直读]`
+- 《炎之舞》电影剧本.docx  `[docx直读]`
+- 《炙热》剧本.docx  `[docx直读]`
+- 《烈日灼心》剧本.docx  `[docx直读]`
+- 《烈火战车》电影剧本.docx  `[docx直读]`
+- 《熔炉》剧本_1.docx  `[docx直读]`
+- 《爵士歌王》电影剧本.docx  `[docx直读]`
+- 《父亲啊，母亲啊！》电影剧本.docx  `[docx直读]`
+- 《牯岭街少年杀人事件》.doc  `[.doc(需转docx)]`
+- 《特殊的一天》电影剧本.docx  `[docx直读]`
+- 《牺牲》电影剧本.docx  `[docx直读]`
+- 《犬神家族》电影剧本.docx  `[docx直读]`
+- 《猎杀星期一》剧本_1.docx  `[docx直读]`
+- 《猎鹿人》电影剧本.docx  `[docx直读]`
+- 《玩偶之家》易卜生.txt  `[txt直读]`
+- 《瑞德尔上校》电影剧本.docx  `[docx直读]`
+- 《甘泉·玛侬》电影剧本.docx  `[docx直读]`
+- 《甜蜜的梦》电影剧本.docx  `[docx直读]`
+- 《生命值不值得赌》电影剧本.docx  `[docx直读]`
+- 《生命如屋》电影剧本.docx  `[docx直读]`
+- 《生命的圆圈》电影剧本.docx  `[docx直读]`
+- 《生存的欲望》电影剧本.docx  `[docx直读]`
+- 《生存还是死亡》电影剧本.docx  `[docx直读]`
+- 《生活是美好的》电影剧本.docx  `[docx直读]`
+- 《生活难》电影剧本.docx  `[docx直读]`
+- 《用心棒》电影剧本.docx  `[docx直读]`
+- 《由喜惠》电影剧本.docx  `[docx直读]`
+- 《电视网》电影剧本.docx  `[docx直读]`
+- 《男人的故事》电影剧本.docx  `[docx直读]`
+- 《男子汉们！》电影剧本.docx  `[docx直读]`
+- 《疑惑》电影剧本.docx  `[docx直读]`
+- 《白日美人》电影剧本.docx  `[docx直读]`
+- 《白色巨塔》电影剧本.docx  `[docx直读]`
+- 《白色的野心》电影剧本.docx  `[docx直读]`
+- 《白鹿原》剧本.doc  `[.doc(需转docx)]`
+- 《盲山》外版本.docx  `[docx直读]`
+- 《相见在明天》电影剧本.docx  `[docx直读]`
+- 《看不见的客人》剧本_1.docx  `[docx直读]`
+- 《真面目》电影剧本.docx  `[docx直读]`
+- 《码头风云》电影剧本（原名《江边》）.docx  `[docx直读]`
+- 《砂器》电影剧本.docx  `[docx直读]`
+- 《破浪》电影剧本.docx  `[docx直读]`
+- 《破镜》电影剧本.docx  `[docx直读]`
+- 《社葬》电影剧本.docx  `[docx直读]`
+- 《神仙也羡慕》电影剧本.docx  `[docx直读]`
+- 《神圣的家族》电影剧本.docx  `[docx直读]`
+- 《神秘巨星》.docx  `[docx直读]`
+- 《神秘的百慕大三角区》电影剧本.docx  `[docx直读]`
+- 《神给的孩子》电影剧本.docx  `[docx直读]`
+- 《离别》电影剧本.docx  `[docx直读]`
+- 《秃鹰》电影剧本.docx  `[docx直读]`
+- 《秘密的地方》电影剧本.docx  `[docx直读]`
+- 《移民》电影剧本.docx  `[docx直读]`
+- 《穿夏服的夏娃》电影剧本.docx  `[docx直读]`
+- 《窃贼》电影剧本.docx  `[docx直读]`
+- 《第25小时》电影剧本.docx  `[docx直读]`
+- 《第一滴血》电影剧本.docx  `[docx直读]`
+- 《第七目标》电影剧本.docx  `[docx直读]`
+- 《第九连》电影剧本.docx  `[docx直读]`
+- 《第八日的蝉》电影剧本.docx  `[docx直读]`
+- 《第六感》电影剧本.docx  `[docx直读]`
+- 《精神病患者》电影剧本.docx  `[docx直读]`
+- 《索菲·朔尔最后的日子》电影剧本.docx  `[docx直读]`
+- 《索菲的抉择》电影剧本.docx  `[docx直读]`
+- 《紧闭双眼》电影剧本.docx  `[docx直读]`
+- 《红松鼠》电影剧本.docx  `[docx直读]`
+- 《红胡子》电影剧本.docx  `[docx直读]`
+- 《纯洁心灵的永恒阳光》电影剧本.docx  `[docx直读]`
+- 《纳德和西敏：一次别离》电影剧本.docx  `[docx直读]`
+- 《细雪》电影剧本.docx  `[docx直读]`
+- 《绑架》电影剧本.docx  `[docx直读]`
+- 《绝世高手》剧本.docx  `[docx直读]`
+- 《绞杀》电影剧本.docx  `[docx直读]`
+- 《维里吉安娜》电影剧本.docx  `[docx直读]`
+- 《绿光》电影剧本.docx  `[docx直读]`
+- 《绿宝石》电影剧本.docx  `[docx直读]`
+- 《绿皮书》电影剧本.pdf  `[PDF·文字直读]`
+- 《绿里奇迹》剧本.docx  `[docx直读]`
+- 《编舟记》电影剧本.docx  `[docx直读]`
+- 《罗马11时》电影剧本.docx  `[docx直读]`
+- 《美丽心灵》电影剧本.docx  `[docx直读]`
+- 《美丽心灵的永恒阳光》_20200409134001.pdf  `[PDF·文字直读]`
+- 《美国往事》电影剧本.docx  `[docx直读]`
+- 《美国恶梦》电影剧本.docx  `[docx直读]`
+- 《美术馆旁边的动物园》电影剧本.docx  `[docx直读]`
+- 《群鸟》电影剧本.docx  `[docx直读]`
+- 《翻滚吧！阿信》电影剧本.docx  `[docx直读]`
+- 《老-炮-儿》剧本1).docx  `[docx直读]`
+- 《老师好》 剧本.pdf  `[PDF·文字直读]`
+- 《职业的风险》电影剧本.docx  `[docx直读]`
+- 《肖申克的救赎》电影剧本.docx  `[docx直读]`
+- 《胜利日的故事》电影剧本.docx  `[docx直读]`
+- 《脱衣舞场》电影剧本.docx  `[docx直读]`
+- 《致命的诱惑》电影剧本.docx  `[docx直读]`
+- 《艰苦创业的道路》电影剧本.docx  `[docx直读]`
+- 《芝加哥》电影剧本.docx  `[docx直读]`
+- 《芳华》剧本.doc  `[.doc(需转docx)]`
+- 《芳名卡门》电影剧本.docx  `[docx直读]`
+- 《苔丝姑娘》电影剧本.docx  `[docx直读]`
+- 《苦果》电影剧本.docx  `[docx直读]`
+- 《英国病人》电影剧本.docx  `[docx直读]`
+- 《莉莉·玛莲》电影剧本.docx  `[docx直读]`
+- 《莫洛赫》电影剧本.docx  `[docx直读]`
+- 《蒲田进行曲》电影剧本.docx  `[docx直读]`
+- 《蓝天使》电影剧本.docx  `[docx直读]`
+- 《蓝色的诱惑》电影剧本.docx  `[docx直读]`
+- 《蘑菇人》电影剧本.docx  `[docx直读]`
+- 《虎威》电影剧本.docx  `[docx直读]`
+- 《蚕豆公主》电影剧本.docx  `[docx直读]`
+- 《蛇蛋》电影剧本.docx  `[docx直读]`
+- 《蜘蛛巢城》电影剧本.docx  `[docx直读]`
+- 《蝴蝶梦》电影剧本.docx  `[docx直读]`
+- 《螃蟹》电影剧本.docx  `[docx直读]`
+- 《行动代号孙中山》电影剧本.docx  `[docx直读]`
+- 《被绞死的人》电影剧本.docx  `[docx直读]`
+- 《被解放的姜戈》电影剧本.docx  `[docx直读]`
+- 《被遗忘的长笛曲》电影剧本.docx  `[docx直读]`
+- 《裁决》电影剧本.docx  `[docx直读]`
+- 《裸的十九岁》电影剧本.docx  `[docx直读]`
+- 《西区故事》电影剧本.docx  `[docx直读]`
+- 《西尔克伍德》电影剧本.docx  `[docx直读]`
+- 《西雅图不眠人》电影剧本.docx  `[docx直读]`
+- 《警官学校》电影剧本.docx  `[docx直读]`
+- 《警官的诺言》电影剧本.docx  `[docx直读]`
+- 《警察与小偷》电影剧本.docx  `[docx直读]`
+- 《警察分局长的自白》电影剧本.docx  `[docx直读]`
+- 《让·德·弗洛莱特》电影剧本.docx  `[docx直读]`
+- 《记忆大师》剧本_3.docx  `[docx直读]`
+- 《讹诈》电影剧本.docx  `[docx直读]`
+- 《误解》电影剧本.docx  `[docx直读]`
+- 《请问芳名》电影剧本.docx  `[docx直读]`
+- 《豺狼的日子》电影剧本.docx  `[docx直读]`
+- 《豺狼的陷阱》电影剧本.docx  `[docx直读]`
+- 《财富》电影剧本.docx  `[docx直读]`
+- 《败坏哈德莱堡的人》电影剧本.docx  `[docx直读]`
+- 《贫民窟的百万富翁》_20200409134002.docx  `[docx直读]`
+- 《贫民窟的百万富翁》_20200409134002.pdf  `[PDF·文字直读]`
+- 《费城》电影剧本.docx  `[docx直读]`
+- 《赛点》电影剧本.docx  `[docx直读]`
+- 《走进林间草地的时候》电影剧本.docx  `[docx直读]`
+- 《赵氏孤儿》剧本.doc  `[.doc(需转docx)]`
+- 《越狱之后》电影剧本.docx  `[docx直读]`
+- 《越过天城山》电影剧本.docx  `[docx直读]`
+- 《跳舞者的时代》电影剧本.docx  `[docx直读]`
+- 《车祸》电影剧本.docx  `[docx直读]`
+- 《车祸余波》电影剧本.docx  `[docx直读]`
+- 《轻举妄动》电影剧本.docx  `[docx直读]`
+- 《这个杀手不太冷》剧本.docx  `[docx直读]`
+- 《这里的黎明静悄悄》电影剧本.docx  `[docx直读]`
+- 《远山的呼唤》电影剧本.docx  `[docx直读]`
+- 《远方来的女人》电影剧本.docx  `[docx直读]`
+- 《远雷》电影剧本.docx  `[docx直读]`
+- 《连弹》电影剧本《钢琴曲四手联弹》电影剧本.docx  `[docx直读]`
+- 《迷幻列车》电影剧本.docx  `[docx直读]`
+- 《迷茫的海岸》电影剧本.docx  `[docx直读]`
+- 《逃离德黑兰》电影剧本.docx  `[docx直读]`
+- 《逍遥骑士》电影剧本.docx  `[docx直读]`
+- 《通心粉》电影剧本.docx  `[docx直读]`
+- 《遥远的落日》电影剧本.docx  `[docx直读]`
+- 《重新开始》电影剧本.docx  `[docx直读]`
+- 《重见阳光》电影剧本.docx  `[docx直读]`
+- 《野良犬》电影剧本.docx  `[docx直读]`
+- 《野菊之墓》电影剧本.docx  `[docx直读]`
+- 《金钱》电影剧本.docx  `[docx直读]`
+- 《钢琴课》电影剧本.docx  `[docx直读]`
+- 《钥匙》电影剧本.docx  `[docx直读]`
+- 《铜雀台》剧本.pdf  `[PDF·文字直读]`
+- 《银河》电影剧本.docx  `[docx直读]`
+- 《锡鼓》电影剧本.docx  `[docx直读]`
+- 《闪亮的风采》电影剧本.docx  `[docx直读]`
+- 《阳光小美女》电影剧本.docx  `[docx直读]`
+- 《阿甘正传》.pdf  `[PDF·文字直读]`
+- 《阿甘正传》电影剧本.docx  `[docx直读]`
+- 《陀思妥耶夫斯基的二十六天》电影剧本.docx  `[docx直读]`
+- 《隧道》剧本.pdf  `[PDF·文字直读]`
+- 《隧道》剧本_1.docx  `[docx直读]`
+- 《难忘的女教师》电影剧本.docx  `[docx直读]`
+- 《雄狮》剧本.docx  `[docx直读]`
+- 《雨人》中文剧本.pdf  `[PDF·文字直读]`
+- 《雨人》电影剧本.docx  `[docx直读]`
+- 《雨月物语》电影剧本.docx  `[docx直读]`
+- 《雪之断章》电影剧本.docx  `[docx直读]`
+- 《雪河来的男子汉》电影剧本.docx  `[docx直读]`
+- 《霸王别姬》电影文学剧本.pdf  `[PDF·文字直读]`
+- 《青山翠谷》电影剧本.docx  `[docx直读]`
+- 《青春残酷物语》电影剧本.docx  `[docx直读]`
+- 《非洲之旅》电影剧本.docx  `[docx直读]`
+- 《面面相觑》电影剧本.docx  `[docx直读]`
+- 《革命之路》电影剧本.docx  `[docx直读]`
+- 《音乐与歌词》电影剧本.docx  `[docx直读]`
+- 《音乐之声》电影剧本.docx  `[docx直读]`
+- 《音乐家巴赫和小家伙》电影剧本.docx  `[docx直读]`
+- 《风花》电影剧本.docx  `[docx直读]`
+- 《风雪黄昏》电影剧本.docx  `[docx直读]`
+- 《飞越疯人院》电影剧本.docx  `[docx直读]`
+- 《食神》剧本.pdf  `[PDF·文字直读]`
+- 《饥饿海峡》电影剧本.docx  `[docx直读]`
+- 《马太伊事件》电影剧本.docx  `[docx直读]`
+- 《马尔霍兰车道》电影剧本.docx  `[docx直读]`
+- 《马留斯与贾奈特》电影剧本.docx  `[docx直读]`
+- 《骗中骗》电影剧本.docx  `[docx直读]`
+- 《高加索俘虏》电影剧本.docx  `[docx直读]`
+- 《高跟鞋》电影剧本.docx  `[docx直读]`
+- 《魂归故土》电影剧本.docx  `[docx直读]`
+- 《魂断蓝桥》电影剧本.docx  `[docx直读]`
+- 《鳄鱼分署》电影剧本.docx  `[docx直读]`
+- 《鳄鱼邓迪2》电影剧本.docx  `[docx直读]`
+- 《鳄鱼邓迪》电影剧本.docx  `[docx直读]`
+- 《鳗鱼》电影剧本.docx  `[docx直读]`
+- 《鸡缘巧合》电影剧本.docx  `[docx直读]`
+- 《鸳梦重温》电影剧本.docx  `[docx直读]`
+- 《麦秋》电影剧本.docx  `[docx直读]`
+- 《麻风女》电影剧本.docx  `[docx直读]`
+- 《黄海》剧本_1.docx  `[docx直读]`
+- 《黑天鹅》电影剧本.docx  `[docx直读]`
+- 《黑寡妇》电影剧本.docx  `[docx直读]`
+- 《黑暗中的舞者》电影剧本.docx  `[docx直读]`
+- 《黑海人妖》电影剧本.docx  `[docx直读]`
+- 《黑郁金香》电影剧本.docx  `[docx直读]`
+- 《默默无声的人》电影剧本.docx  `[docx直读]`
+- 《龙门飞甲》.pdf  `[PDF·文字直读]`
+- 一个人的奥林匹克_2008-封.pdf  `[PDF·扫描→OCR]`
+- 一个男人和一个女人.docx  `[docx直读]`
+- 一个都不能少_电影小说-1999-封.pdf  `[PDF·扫描→OCR]`
+- 一代宗师】.pdf  `[PDF·文字直读]`
+- 一切尽失ALL_IS_LOST_SCRIPT_FINAL.pdf  `[PDF·文字直读]`
+- 一切都是真的.docx  `[docx直读]`
+- 一呼一吸.docx  `[docx直读]`
+- 一年中的九天.docx  `[docx直读]`
+- 一年长的道路(意大利）.docx  `[docx直读]`
+- 一条安达鲁狗.pdf  `[PDF·文字直读]`
+- 一江春水向东流.pdf  `[PDF·扫描→OCR]`
+- 七武士-139扫描版.pdf  `[PDF·扫描→OCR]`
+- 七武士.docx  `[docx直读]`
+- 七美人.docx  `[docx直读]`
+- 万物理论.docx  `[docx直读]`
+- 三个男人和一个摇篮.pdf  `[PDF·文字直读]`
+- 三分钱歌剧.docx  `[docx直读]`
+- 三十九级台阶.docx  `[docx直读]`
+- 三十九级台阶（第3版）.docx  `[docx直读]`
+- 三块广告牌.docx  `[docx直读]`
+- 三色.pdf  `[PDF·文字直读]`
+- 上瓦尔德的秘密.docx  `[docx直读]`
+- 不准掉头.pdf  `[PDF·文字直读]`
+- 不合时宜的人.docx  `[docx直读]`
+- 不忠.docx  `[docx直读]`
+- 不沉的太阳.pdf  `[PDF·文字直读]`
+- 不沉的太阳_西岗琢也.pdf  `[PDF·文字直读]`
+- 不确知的开端.pdf  `[PDF·文字直读]`
+- 不要抬头 Don’t Look Up (Netflix).pdf  `[PDF·文字直读]`
+- 不要滑稽杂志！.pdf  `[PDF·文字直读]`
+- 不见不散-46扫描.pdf  `[PDF·扫描→OCR]`
+- 不走运的人.pdf  `[PDF·文字直读]`
+- 与狼共舞.pdf  `[PDF·文字直读]`
+- 世界上最疼我的那个人去了-64扫描.pdf  `[PDF·扫描→OCR]`
+- 世界著名电影剧本选 第1分册 苏联分册.pdf  `[PDF·扫描→OCR]`
+- 世界著名电影剧本选 第2分册 美国分册.pdf  `[PDF·扫描→OCR]`
+- 东京物语.docx  `[docx直读]`
+- 东方—西方.docx  `[docx直读]`
+- 两个人的车站.docx  `[docx直读]`
+- 两个人的车站.pdf  `[PDF·文字直读]`
+- 严肃的男人.docx  `[docx直读]`
+- 严肃的男人.pdf  `[PDF·扫描→OCR]`
+- 严肃的男人_乔尔_科恩.pdf  `[PDF·扫描→OCR]`
+- 丧失了名誉的卡塔琳娜.docx  `[docx直读]`
+- 丧失了名誉的卡塔琳娜·勃鲁姆.pdf  `[PDF·文字直读]`
+- 丧失了名誉的卡塔琳娜·布卢姆_小说、电影剧本-1987-封.pdf  `[PDF·扫描→OCR]`
+- 丧礼.docx  `[docx直读]`
+- 个人问题访问记.pdf  `[PDF·文字直读]`
+- 中国合伙人-2013-封-老.pdf  `[PDF·扫描→OCR]`
+- 中国合伙人】.pdf  `[PDF·文字直读]`
+- 中国电影剧本选集  （五）_10979538.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集  （六）_10979533.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集  （四）_10979539.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（一）_10769381.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（七）_10792921.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（三）_10123821.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（九）_10123824.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（二）_12564807.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（八）_10123822.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（十一）_10123825.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（十三）_10771504.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（十二）_10123826.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（十四）_10528284.pdf  `[PDF·扫描→OCR]`
+- 中国电影剧本选集（十）_10123823.pdf  `[PDF·扫描→OCR]`
+- 临终的信托.pdf  `[PDF·文字直读]`
+- 临终的信托_周防正行.pdf  `[PDF·文字直读]`
+- 丹麦女孩.docx  `[docx直读]`
+- 为奴十二载12YAS_SCRIPT_BK_COVER_PAGES_FINAL.pdf  `[PDF·文字直读]`
+- 为戴茜小姐开车.pdf  `[PDF·文字直读]`
+- 乌云背后的幸福线.pdf  `[PDF·文字直读]`
+- 乌云背后的幸福线_戴维_O_拉塞尔.pdf  `[PDF·文字直读]`
+- 乌鸦与麻雀.pdf  `[PDF·扫描→OCR]`
+- 九降風劇本.pdf  `[PDF·文字直读]`
+- 乞力马扎罗的雪.pdf  `[PDF·文字直读]`
+- 乡村女教师.docx  `[docx直读]`
+- 乱.docx  `[docx直读]`
+- 乱世佳人（电影文学本）_1988-封-老.pdf  `[PDF·扫描→OCR]`
+- 了不起的盖茨比greatgatsby_sp.pdf  `[PDF·文字直读]`
+- 二十四只眼睛.pdf  `[PDF·文字直读]`
+- 云中深处.pdf  `[PDF·文字直读]`
+- 五朵金花.pdf  `[PDF·扫描→OCR]`
+- 亚当的肋骨.docx  `[docx直读]`
+- 亚当的肋骨.pdf  `[PDF·文字直读]`
+- 亚美利加.pdf  `[PDF·文字直读]`
+- 人与兽.docx  `[docx直读]`
+- 人与狼（意大利法国）.docx  `[docx直读]`
+- 人人为自己.docx  `[docx直读]`
+- 人人为自己，上帝反大家.pdf  `[PDF·文字直读]`
+- 人民的名义+-+周梅森】.pdf  `[PDF·文字直读]`
+- 人群中的一个.docx  `[docx直读]`
+- 仆人.docx  `[docx直读]`
+- 仆人.pdf  `[PDF·文字直读]`
+- 今天我休息.pdf  `[PDF·扫描→OCR]`
+- 从你的全世界路过大纲.pdf  `[PDF·文字直读]`
+- 从那以后.docx  `[docx直读]`
+- 从那以后.pdf  `[PDF·文字直读]`
+- 仪式.docx  `[docx直读]`
+- 伊尔先生.docx  `[docx直读]`
+- 伊尔先生.pdf  `[PDF·文字直读]`
+- 伟大的公民.docx  `[docx直读]`
+- 传道.docx  `[docx直读]`
+- 伯格曼《假面》剧本.pdf  `[PDF·文字直读]`
+- 伴娘团.pdf  `[PDF·文字直读]`
+- 低俗小说.pdf  `[PDF·文字直读]`
+- 何以为家.docx  `[docx直读]`
+- 你在哪儿？我在这儿！.docx  `[docx直读]`
+- 你在哪儿？我在这儿！.pdf  `[PDF·文字直读]`
+- 佩吉.休出嫁.docx  `[docx直读]`
+- 俄狄浦斯王.docx  `[docx直读]`
+- 俄狄浦斯王.pdf  `[PDF·文字直读]`
+- 俄罗斯的田野.docx  `[docx直读]`
+- 俄罗斯问题.pdf  `[PDF·文字直读]`
+- 假面.docx  `[docx直读]`
+- 做出个样.pdf  `[PDF·文字直读]`
+- 偷自行车的人-64-扫描版.pdf  `[PDF·扫描→OCR]`
+- 偷自行车的人.docx  `[docx直读]`
+- 傀儡人生.docx  `[docx直读]`
+- 傀儡人生.pdf  `[PDF·文字直读]`
+- 儿子.pdf  `[PDF·文字直读]`
+- 光华.docx  `[docx直读]`
+- 光华.pdf  `[PDF·文字直读]`
+- 克莱默夫妇_中英对照-.pdf  `[PDF·扫描→OCR]`
+- 克里斯塔的第二次觉醒.docx  `[docx直读]`
+- 克雷墨夫妇-小说、电影剧本-274扫描.pdf  `[PDF·文字直读]`
+- 入殓师_小山薰堂.pdf  `[PDF·扫描→OCR]`
+- 全蚀.docx  `[docx直读]`
+- 全蚀.pdf  `[PDF·文字直读]`
+- 八千里路云与月.pdf  `[PDF·扫描→OCR]`
+- 八又二分之一.pdf  `[PDF·文字直读]`
+- 八恶人英文剧本.pdf  `[PDF·扫描→OCR]`
+- 八月：奥色治郡august-osage-county-screenplay.pdf  `[PDF·文字直读]`
+- 八美图.pdf  `[PDF·文字直读]`
+- 八美图又译八个女人.pdf  `[PDF·文字直读]`
+- 公民凯恩-封-老.pdf  `[PDF·扫描→OCR]`
+- 公民凯恩.doc  `[.doc(需转docx)]`
+- 公民凯恩.docx  `[docx直读]`
+- 公牛星座.docx  `[docx直读]`
+- 共和国之旗.pdf  `[PDF·扫描→OCR]`
+- 关于我母亲的一切.docx  `[docx直读]`
+- 关于我母亲的一切.pdf  `[PDF·文字直读]`
+- 关于我的母亲_佩_阿尔莫多瓦.pdf  `[PDF·文字直读]`
+- 关山飞渡.docx  `[docx直读]`
+- 关山飞渡.pdf  `[PDF·文字直读]`
+- 内布拉斯加.docx  `[docx直读]`
+- 内布拉斯加nebraska_screenplay.pdf  `[PDF·文字直读]`
+- 内心世界.docx  `[docx直读]`
+- 再见了，孩子们.pdf  `[PDF·文字直读]`
+- 冬之华.docx  `[docx直读]`
+- 冬天的樱桃.docx  `[docx直读]`
+- 冬天的樱桃.pdf  `[PDF·文字直读]`
+- 冬天的骨头.pdf  `[PDF·文字直读]`
+- 冰冻之河.pdf  `[PDF·文字直读]`
+- 冰血暴 Season 2 第十集.docx  `[docx直读]`
+- 冰血暴第二季第八集.docx  `[docx直读]`
+- 冲出亚马逊  从剧本到影片_2005-封.pdf  `[PDF·扫描→OCR]`
+- 几个好男人（上）.pdf  `[PDF·文字直读]`
+- 几个好男人（下）.pdf  `[PDF·文字直读]`
+- 几点说明.txt  `[txt直读]`
+- 几近成名（上）.pdf  `[PDF·文字直读]`
+- 几近成名（下）.pdf  `[PDF·文字直读]`
+- 出租汽车司机.pdf  `[PDF·文字直读]`
+- 出租车司机.docx  `[docx直读]`
+- 刑法第三十九条.pdf  `[PDF·文字直读]`
+- 刑警队.docx  `[docx直读]`
+- 列宁在十月.docx  `[docx直读]`
+- 列车上的陌生人.docx  `[docx直读]`
+- 列那狐.docx  `[docx直读]`
+- 利维坦.docx  `[docx直读]`
+- 别了，夏日的绿茵…….docx  `[docx直读]`
+- 别了，夏日的绿茵…….pdf  `[PDF·文字直读]`
+- 前程似锦的女孩.docx  `[docx直读]`
+- 前线后面的战线.docx  `[docx直读]`
+- 剧本 英雄.pdf  `[PDF·文字直读]`
+- 剧本大纲.pdf  `[PDF·文字直读]`
+- 北京遇上西雅图.pdf  `[PDF·文字直读]`
+- 北斗七星.docx  `[docx直读]`
+- 十字街头-112.pdf  `[PDF·扫描→OCR]`
+- 十诫之五.docx  `[docx直读]`
+- 十诫之六.docx  `[docx直读]`
+- 华尔街.docx  `[docx直读]`
+- 华尔街之狼the_wolf_of_wall_street_screenplay.pdf  `[PDF·文字直读]`
+- 卑鄙的我2screenplay3_582531.pdf  `[PDF·文字直读]`
+- 单身职工与集体宿舍.docx  `[docx直读]`
+- 单身职工与集体宿舍.pdf  `[PDF·文字直读]`
+- 南方的野兽.pdf  `[PDF·文字直读]`
+- 卡尔纳克咖啡馆.docx  `[docx直读]`
+- 卡里伽利博士的小屋.docx  `[docx直读]`
+- 印度之行.docx  `[docx直读]`
+- 危楼风波.docx  `[docx直读]`
+- 压抑的年代.docx  `[docx直读]`
+- 压抑的年代.pdf  `[PDF·文字直读]`
+- 厌恶.docx  `[docx直读]`
+- 又一年.docx  `[docx直读]`
+- 又一年.pdf  `[PDF·文字直读]`
+- 又一年_迈克_李.pdf  `[PDF·文字直读]`
+- 变脸.pdf  `[PDF·文字直读]`
+- 叙述故事.pdf  `[PDF·文字直读]`
+- 叛逆天使的陨落.docx  `[docx直读]`
+- 古斯塔夫_亚历山大_戈诺罗夫斯基.pdf  `[PDF·文字直读]`
+- 古都_文学本.pdf  `[PDF·扫描→OCR]`
+- 名扬四海电影剧本.pdf  `[PDF·文字直读]`
+- 后人.docx  `[docx直读]`
+- 后人.pdf  `[PDF·文字直读]`
+- 后窗.docx  `[docx直读]`
+- 君子协定.pdf  `[PDF·文字直读]`
+- 告密者.docx  `[docx直读]`
+- 呼啸山庄.pdf  `[PDF·文字直读]`
+- 呼喊与耳语.docx  `[docx直读]`
+- 品特电影剧本.docx  `[docx直读]`
+- 哭声.docx  `[docx直读]`
+- 哭泣游戏.docx  `[docx直读]`
+- 唐伯虎点秋香.pdf  `[PDF·文字直读]`
+- 唐顿庄园.docx  `[docx直读]`
+- 商海通牒.pdf  `[PDF·文字直读]`
+- 商海通牒_J_C_尚多尔.pdf  `[PDF·文字直读]`
+- 啊!春天.docx  `[docx直读]`
+- 啊，野麦岭·新绿篇.pdf  `[PDF·文字直读]`
+- 喊叫(意大利）.docx  `[docx直读]`
+- 四月三周两天.docx  `[docx直读]`
+- 四月三周两天.pdf  `[PDF·文字直读]`
+- 四百击.docx  `[docx直读]`
+- 四眼天鸡  英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 回家.pdf  `[PDF·文字直读]`
+- 回归.pdf  `[PDF·文字直读]`
+- 圣诞故事.pdf  `[PDF·文字直读]`
+- 圣诞故事_阿尔诺_德斯普莱辛.pdf  `[PDF·文字直读]`
+- 在云端.pdf  `[PDF·文字直读]`
+- 在某处_索菲娅_科波拉.pdf  `[PDF·文字直读]`
+- 在黑暗中_戴维_F_沙默恩.pdf  `[PDF·文字直读]`
+- 地中海.docx  `[docx直读]`
+- 地中海.pdf  `[PDF·文字直读]`
+- 地心引力gravity_sp.pdf  `[PDF·文字直读]`
+- 坏蛋睡得最香.docx  `[docx直读]`
+- 城市滑头_L_甘兹.pdf  `[PDF·文字直读]`
+- 塔可夫斯基《牺牲》剧本.pdf  `[PDF·文字直读]`
+- 塞尔玛与路易丝.pdf  `[PDF·文字直读]`
+- 复仇在我.docx  `[docx直读]`
+- 复仇在我.pdf  `[PDF·文字直读]`
+- 复仇在我_马场当.pdf  `[PDF·文字直读]`
+- 夏伯阳.docx  `[docx直读]`
+- 夏天的故事.pdf  `[PDF·文字直读]`
+- 夕阳余辉.pdf  `[PDF·文字直读]`
+- 外国电影剧本丛刊 01  关山飞渡 黄牛惨案.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 02  炎热的夜晚 恶梦 替身.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 03 告密者.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 04 洛德·拜伦·琼斯的解脱 一个警察局长的自白.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 07 日本的悲剧 飞来横祸.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 08 幻灭 游戏规则.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 11 个人问题访问记 做女儿的和做母亲的 不幸.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 12 残菊物语 雨月物语.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 13 灰烬与钻石 大理石人.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 14 故乡 幸福的黄手帕 远山的呼唤.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 15 罗密斯先生到华盛顿 约旦先生来了.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 16 夜间来客 英雄的狂欢节.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 17 三分钱歌剧.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 18 莫斯科不相信眼泪……  女人的心.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 20 我二十岁 七月的雨.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 21 马可·波罗.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 23 晚春 麦秋.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 24 恐惧的代价 曙光.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 25 厂长 主席.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 26 三十九级台阶 蝴蝶梦.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 29 秋天的马拉松 五个夜晚 伊尔库茨克的故事.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 30 我是一个黑人 彼岸 马车夫.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 32 为明天让路 我的管家戈德弗莱.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 34 雁南飞 一个人的遭遇.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 36 萨柯和樊塞蒂  马太伊案件.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 38 操行零分 穆赛特.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 39 帝银事件 忍川 下山之死.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 40 翼之歌.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 41 卡萨布兰卡 有的和没有的.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 42 龙爪花 东京纪行.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 43 奖金 反馈.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 44 野菊之墓 海峡.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 46 克里斯塔的第二次觉醒 姊妹们或幸福的平衡 压抑的年代.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 47 伊万·斯捷潘诺维奇  我的兄弟…….pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊特辑 1  粒粒皆辛苦.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊特辑 2  没有侧翼的战线  前线后面的战线.pdf  `[PDF·扫描→OCR]`
+- 外科医生.docx  `[docx直读]`
+- 夜幕不久降临.docx  `[docx直读]`
+- 夜间守门人.docx  `[docx直读]`
+- 夜（意大利）.docx  `[docx直读]`
+- 大地在波动.docx  `[docx直读]`
+- 大地惊雷.docx  `[docx直读]`
+- 大地惊雷.pdf  `[PDF·文字直读]`
+- 大幻术师.doc  `[.doc(需转docx)]`
+- 大开眼戒.pdf  `[PDF·文字直读]`
+- 大梦想家saving-mr-banks-screenplay.pdf  `[PDF·文字直读]`
+- 大海作证.docx  `[docx直读]`
+- 大话西游(1).doc  `[.doc(需转docx)]`
+- 大路.pdf  `[PDF·文字直读]`
+- 大鱼.pdf  `[PDF·文字直读]`
+- 大鹿村骚动记.pdf  `[PDF·文字直读]`
+- 天命.pdf  `[PDF·文字直读]`
+- 天堂儿女（上）.pdf  `[PDF·文字直读]`
+- 天堂儿女（下）.pdf  `[PDF·文字直读]`
+- 天堂可以等待.pdf  `[PDF·文字直读]`
+- 天堂的孩子.docx  `[docx直读]`
+- 天生杀人狂（上）.pdf  `[PDF·文字直读]`
+- 天生杀人狂（下）.pdf  `[PDF·文字直读]`
+- 天生杀手.docx  `[docx直读]`
+- 天生杀手_昆廷_塔伦蒂诺.pdf  `[PDF·文字直读]`
+- 天生杀手_续完_昆廷_塔伦蒂诺.pdf  `[PDF·文字直读]`
+- 天生胆小-76扫描.pdf  `[PDF·扫描→OCR]`
+- 天网难逃.docx  `[docx直读]`
+- 太阳.docx  `[docx直读]`
+- 太阳.pdf  `[PDF·文字直读]`
+- 太阳帝国.docx  `[docx直读]`
+- 太阳灼人__伊布拉吉姆别科夫.pdf  `[PDF·文字直读]`
+- 失乐园.docx  `[docx直读]`
+- 失乐园.pdf  `[PDF·文字直读]`
+- 失足少年.pdf  `[PDF·文字直读]`
+- 夺命伦敦.docx  `[docx直读]`
+- 奇妙仙子_ 英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 奇遇.docx  `[docx直读]`
+- 奇遇.pdf  `[PDF·文字直读]`
+- 奖金.docx  `[docx直读]`
+- 奥斯卡奖电影剧本选.pdf  `[PDF·扫描→OCR]`
+- 奥米克隆.docx  `[docx直读]`
+- 女学生的朋友.pdf  `[PDF·文字直读]`
+- 女局长的罗曼史.docx  `[docx直读]`
+- 女政委.docx  `[docx直读]`
+- 女税务官.docx  `[docx直读]`
+- 女税务官.pdf  `[PDF·文字直读]`
+- 女衔.docx  `[docx直读]`
+- 好景当前spectacularnow.pdf  `[PDF·文字直读]`
+- 妈妈.pdf  `[PDF·文字直读]`
+- 妈妈_A_阿利耶夫.pdf  `[PDF·文字直读]`
+- 妈妈一百岁.docx  `[docx直读]`
+- 妈妈民歌团.docx  `[docx直读]`
+- 妮诺契卡.pdf  `[PDF·文字直读]`
+- 姊妹们或幸福的平衡.docx  `[docx直读]`
+- 姊妹坡.docx  `[docx直读]`
+- 威尼斯面包师的儿子.docx  `[docx直读]`
+- 孤独幸存者screenplay7_586140.pdf  `[PDF·文字直读]`
+- 孩子们都很好.pdf  `[PDF·文字直读]`
+- 安倍逊大族.docx  `[docx直读]`
+- 安倍逊大族.pdf  `[PDF·文字直读]`
+- 安妮特 Annette (Amazon).pdf  `[PDF·扫描→OCR]`
+- 宗教课.docx  `[docx直读]`
+- 宗教课.pdf  `[PDF·文字直读]`
+- 宝贝儿.pdf  `[PDF·文字直读]`
+- 审讯.docx  `[docx直读]`
+- 害怕夜间出门.docx  `[docx直读]`
+- 家庭内部肖像.docx  `[docx直读]`
+- 家族.docx  `[docx直读]`
+- 家族游戏.docx  `[docx直读]`
+- 家族游戏.pdf  `[PDF·文字直读]`
+- 寅次郎的故事.docx  `[docx直读]`
+- 寅次郎的晚霞歌.docx  `[docx直读]`
+- 对她说.docx  `[docx直读]`
+- 对她说_佩德罗_阿尔莫多瓦.pdf  `[PDF·文字直读]`
+- 对话.docx  `[docx直读]`
+- 对话.pdf  `[PDF·文字直读]`
+- 对话尼克松.pdf  `[PDF·文字直读]`
+- 小信差.docx  `[docx直读]`
+- 小信差.pdf  `[PDF·文字直读]`
+- 小兵张嘎（电影文学剧本）.pdf  `[PDF·扫描→OCR]`
+- 小恺撒.pdf  `[PDF·文字直读]`
+- 小维拉.pdf  `[PDF·文字直读]`
+- 少数派报告.pdf  `[PDF·文字直读]`
+- 尘土.pdf  `[PDF·文字直读]`
+- 尤里节.docx  `[docx直读]`
+- 尤里节.pdf  `[PDF·文字直读]`
+- 尼克松（上）.pdf  `[PDF·文字直读]`
+- 尼克松（下）.pdf  `[PDF·文字直读]`
+- 屋顶上的人.docx  `[docx直读]`
+- 山之外.docx  `[docx直读]`
+- 山之外_克里斯蒂安_蒙久.pdf  `[PDF·文字直读]`
+- 山河故人.doc  `[.doc(需转docx)]`
+- 巴别塔.pdf  `[PDF·文字直读]`
+- 巴比伦.docx  `[docx直读]`
+- 巴甫洛夫.docx  `[docx直读]`
+- 巴里.docx  `[docx直读]`
+- 巴顿.芬克.docx  `[docx直读]`
+- 巴顿_芬克_乔尔_科恩.pdf  `[PDF·文字直读]`
+- 巴黎最后的探戈.pdf  `[PDF·文字直读]`
+- 布加勒斯特居民证.docx  `[docx直读]`
+- 布谷鸟.docx  `[docx直读]`
+- 布谷鸟.pdf  `[PDF·文字直读]`
+- 布鲁克林.docx  `[docx直读]`
+- 希望与反抗.docx  `[docx直读]`
+- 帝国的毁灭.docx  `[docx直读]`
+- 帝国的毁灭.pdf  `[PDF·文字直读]`
+- 帮助_塔特_泰勒.pdf  `[PDF·文字直读]`
+- 幸福的黄手帕.docx  `[docx直读]`
+- 幸福的黄手帕.pdf  `[PDF·文字直读]`
+- 开水.pdf  `[PDF·文字直读]`
+- 开端.pdf  `[PDF·文字直读]`
+- 开罗的紫玫瑰.docx  `[docx直读]`
+- 开罗的紫玫瑰_伍_艾伦.pdf  `[PDF·文字直读]`
+- 开罗紫玫瑰.pdf  `[PDF·文字直读]`
+- 弗兰切斯卡.docx  `[docx直读]`
+- 弗兰切斯卡.pdf  `[PDF·文字直读]`
+- 弗鲁特韦尔车站fruitvale-station-screenplay.pdf  `[PDF·文字直读]`
+- 张思德-68扫描.pdf  `[PDF·扫描→OCR]`
+- 强迫症_皮特_德布吕热.pdf  `[PDF·文字直读]`
+- 当机立断.docx  `[docx直读]`
+- 影子写手.pdf  `[PDF·文字直读]`
+- 影子武士.docx  `[docx直读]`
+- 彼岸.docx  `[docx直读]`
+- 彼岸花.docx  `[docx直读]`
+- 循环.pdf  `[PDF·文字直读]`
+- 德肋撒.pdf  `[PDF·文字直读]`
+- 心中的秘密.docx  `[docx直读]`
+- 心灵捕手.pdf  `[PDF·文字直读]`
+- 快跑，劳拉.docx  `[docx直读]`
+- 怀乡_托_盖拉.pdf  `[PDF·文字直读]`
+- 怪兽大学monsters-university-screenplay.pdf  `[PDF·文字直读]`
+- 怪兽电力公司_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 怪物召唤.pdf  `[PDF·文字直读]`
+- 恐惧的代价.docx  `[docx直读]`
+- 恐惧的代价.pdf  `[PDF·文字直读]`
+- 恶梦.pdf  `[PDF·文字直读]`
+- 悔悟.docx  `[docx直读]`
+- 惊世未了缘 　.doc  `[.doc(需转docx)]`
+- 惊心动魄  从剧本到影片_2005-封.pdf  `[PDF·扫描→OCR]`
+- 惊涛骇浪  从剧本到影片_2005-封.pdf  `[PDF·扫描→OCR]`
+- 愤怒的收获.docx  `[docx直读]`
+- 成名机会one-chance-screenplay.pdf  `[PDF·文字直读]`
+- 成长教育.docx  `[docx直读]`
+- 成长教育.pdf  `[PDF·文字直读]`
+- 我不是潘金莲剧本】.pdf  `[PDF·文字直读]`
+- 我与玛丽莲的一周.docx  `[docx直读]`
+- 我与玛丽莲的一周.pdf  `[PDF·文字直读]`
+- 我两岁.docx  `[docx直读]`
+- 我二十岁.docx  `[docx直读]`
+- 我们跳舞好吗.docx  `[docx直读]`
+- 我是越狱犯.pdf  `[PDF·文字直读]`
+- 我没有做.docx  `[docx直读]`
+- 我没有做.pdf  `[PDF·扫描→OCR]`
+- 我独自跳舞.docx  `[docx直读]`
+- 我独自跳舞.pdf  `[PDF·文字直读]`
+- 我的兄弟.docx  `[docx直读]`
+- 我的左脚.pdf  `[PDF·文字直读]`
+- 我的父亲.docx  `[docx直读]`
+- 我的秘密之花.docx  `[docx直读]`
+- 我的青春.docx  `[docx直读]`
+- 我美丽的洗衣店.docx  `[docx直读]`
+- 我美丽的洗衣店.pdf  `[PDF·文字直读]`
+- 战地浪漫曲.docx  `[docx直读]`
+- 战场的圣诞节快乐.docx  `[docx直读]`
+- 战舰波将金号.docx  `[docx直读]`
+- 戴金丝边眼镜的人.docx  `[docx直读]`
+- 房间.docx  `[docx直读]`
+- 所罗门的伪证.docx  `[docx直读]`
+- 打架事件剧本.pdf  `[PDF·文字直读]`
+- 托尼•厄德曼.docx  `[docx直读]`
+- 抓贼记.docx  `[docx直读]`
+- 护照.pdf  `[PDF·文字直读]`
+- 拆弹部队.pdf  `[PDF·文字直读]`
+- 捉贼记.pdf  `[PDF·文字直读]`
+- 换子疑云.pdf  `[PDF·文字直读]`
+- 排练之后.docx  `[docx直读]`
+- 排练之后.pdf  `[PDF·文字直读]`
+- 搏击俱乐部.pdf  `[PDF·文字直读]`
+- 攀登者.docx  `[docx直读]`
+- 改编剧本.docx  `[docx直读]`
+- 改编剧本.pdf  `[PDF·文字直读]`
+- 故土难离.docx  `[docx直读]`
+- 敌后的战线.docx  `[docx直读]`
+- 救赎.pdf  `[PDF·文字直读]`
+- 敖德萨档案.docx  `[docx直读]`
+- 断背山.pdf  `[PDF·文字直读]`
+- 无主之地.docx  `[docx直读]`
+- 无因的反抗.pdf  `[PDF·文字直读]`
+- 无愧于我的青春.docx  `[docx直读]`
+- 无间道风云.docx  `[docx直读]`
+- 无间道风云.pdf  `[PDF·文字直读]`
+- 无须多言ES_MINI_SCRIPT_BOOK_FINAL.pdf  `[PDF·文字直读]`
+- 日本电影剧本选.pdf  `[PDF·扫描→OCR]`
+- 日本的悲剧_小林政广.pdf  `[PDF·扫描→OCR]`
+- 时刻.docx  `[docx直读]`
+- 时刻_戴维_黑尔.pdf  `[PDF·文字直读]`
+- 时效警察.docx  `[docx直读]`
+- 时时刻刻.pdf  `[PDF·文字直读]`
+- 星期六.pdf  `[PDF·文字直读]`
+- 星期六晚上和星期日早晨.docx  `[docx直读]`
+- 星期六晚上和星期日早晨.pdf  `[PDF·文字直读]`
+- 春假springbreakers.pdf  `[PDF·扫描→OCR]`
+- 晚春.docx  `[docx直读]`
+- 普通人.pdf  `[PDF·文字直读]`
+- 普通人_小说、电影剧本-封-.pdf  `[PDF·扫描→OCR]`
+- 普通的故事.docx  `[docx直读]`
+- 普通的故事.pdf  `[PDF·文字直读]`
+- 暗处的女儿 The Lost Daughter (Netflix).pdf  `[PDF·文字直读]`
+- 暗无天日.docx  `[docx直读]`
+- 暗杀.docx  `[docx直读]`
+- 暧暧内含光.pdf  `[PDF·文字直读]`
+- 曼哈顿.pdf  `[PDF·文字直读]`
+- 替身.docx  `[docx直读]`
+- 替身.pdf  `[PDF·文字直读]`
+- 最后一班地铁.docx  `[docx直读]`
+- 最后一站.docx  `[docx直读]`
+- 最后一站.pdf  `[PDF·文字直读]`
+- 最后的武士.pdf  `[PDF·文字直读]`
+- 月亮.docx  `[docx直读]`
+- 月亮上的男人.docx  `[docx直读]`
+- 月亮上的男人.pdf  `[PDF·文字直读]`
+- 月升王国.pdf  `[PDF·文字直读]`
+- 有熊谷守一在的地方.docx  `[docx直读]`
+- 有的和没有的.docx  `[docx直读]`
+- 朗读者.pdf  `[PDF·文字直读]`
+- 朝圣者.pdf  `[PDF·文字直读]`
+- 未了的心愿_贾斯廷_扎克汉姆.pdf  `[PDF·文字直读]`
+- 末世纪暴潮(Strange.Days)screenplay.pdf  `[PDF·文字直读]`
+- 本杰明.docx  `[docx直读]`
+- 本杰明_巴顿轶事_埃里克_罗斯.pdf  `[PDF·扫描→OCR]`
+- 本杰明·巴顿奇事.pdf  `[PDF·扫描→OCR]`
+- 朱莉亚_小说、镜头记录本-1980-封.pdf  `[PDF·扫描→OCR]`
+- 朱诺.pdf  `[PDF·扫描→OCR]`
+- 杀人回忆】.pdf  `[PDF·文字直读]`
+- 杀手.docx  `[docx直读]`
+- 杀死一只知更鸟.pdf  `[PDF·文字直读]`
+- 杯酒人生.docx  `[docx直读]`
+- 杯酒人生.pdf  `[PDF·文字直读]`
+- 松林外Place Beyond The Pines.pdf  `[PDF·文字直读]`
+- 极速风流screenplay6_379240.pdf  `[PDF·文字直读]`
+- 林肯.docx  `[docx直读]`
+- 林肯.pdf  `[PDF·文字直读]`
+- 柏林苍穹下.docx  `[docx直读]`
+- 柯里亚_兹_斯维拉克.pdf  `[PDF·文字直读]`
+- 柳暗花明.pdf  `[PDF·文字直读]`
+- 柴科夫斯基：歌剧奥尔良的少女剧本（俄语）.pdf  `[PDF·文字直读]`
+- 桃色公寓_美国_比利_怀尔德.pdf  `[PDF·文字直读]`
+- 梦幻村庄.docx  `[docx直读]`
+- 楚门的世界（上）.docx  `[docx直读]`
+- 楚门的世界（上）.pdf  `[PDF·文字直读]`
+- 楚门的世界（下）.pdf  `[PDF·文字直读]`
+- 楢山节考.docx  `[docx直读]`
+- 模仿游戏.docx  `[docx直读]`
+- 樱桃的滋味.docx  `[docx直读]`
+- 樱桃的滋味.pdf  `[PDF·文字直读]`
+- 橄榄树下无和平.docx  `[docx直读]`
+- 欲念的隐晦目的.docx  `[docx直读]`
+- 欲望号街车.docx  `[docx直读]`
+- 欲望号街车.pdf  `[PDF·文字直读]`
+- 死亡诗社.pdf  `[PDF·文字直读]`
+- 死亡诗社_T_舒尔曼.pdf  `[PDF·文字直读]`
+- 残菊物语.docx  `[docx直读]`
+- 残酷的罗曼史.docx  `[docx直读]`
+- 毁灭天使.pdf  `[PDF·文字直读]`
+- 毕业生.pdf  `[PDF·文字直读]`
+- 民族狩猎的特别之处.docx  `[docx直读]`
+- 水上春秋(电影文学剧本).pdf  `[PDF·扫描→OCR]`
+- 水库狗.pdf  `[PDF·文字直读]`
+- 汉娜姐妹.docx  `[docx直读]`
+- 汉娜姐妹.pdf  `[PDF·文字直读]`
+- 污泥Mud_08_22_11.pdf  `[PDF·文字直读]`
+- 沉睡.docx  `[docx直读]`
+- 沙鸥——从剧本到影片_1983-封.pdf  `[PDF·扫描→OCR]`
+- 没有太阳的街.docx  `[docx直读]`
+- 法国中尉的女人.docx  `[docx直读]`
+- 法国中尉的女人.pdf  `[PDF·文字直读]`
+- 法官妈妈-68扫描.pdf  `[PDF·扫描→OCR]`
+- 法尔戈.pdf  `[PDF·文字直读]`
+- 泰坦尼克号(Titanic)screenplay.pdf  `[PDF·文字直读]`
+- 泰坦尼克号（上）.pdf  `[PDF·文字直读]`
+- 泰坦尼克号（下）.pdf  `[PDF·文字直读]`
+- 泰坦尼克号：最新版完整本电影小说_1998-封.pdf  `[PDF·扫描→OCR]`
+- 洛丽塔.docx  `[docx直读]`
+- 洛丽塔.pdf  `[PDF·文字直读]`
+- 洛丽塔_1995_四个脚本_克里斯多弗_C_赫金斯.pdf  `[PDF·文字直读]`
+- 洛拉.docx  `[docx直读]`
+- 活色生香.docx  `[docx直读]`
+- 流浪汉、移民.pdf  `[PDF·文字直读]`
+- 流浪者之歌.pdf  `[PDF·文字直读]`
+- 浮士德.docx  `[docx直读]`
+- 浮士德.pdf  `[PDF·文字直读]`
+- 浮士德_尤里_阿拉鲍夫.pdf  `[PDF·文字直读]`
+- 海上钢琴师(1).docx  `[docx直读]`
+- 海上钢琴师.docx  `[docx直读]`
+- 海之歌.docx  `[docx直读]`
+- 海特梅被捕之夜.docx  `[docx直读]`
+- 海边的曼切斯特.pdf  `[PDF·文字直读]`
+- 消逝的女人.docx  `[docx直读]`
+- 深夜食堂.docx  `[docx直读]`
+- 深渊(The.Abyss)screenplay.pdf  `[PDF·文字直读]`
+- 温别尔托·D_1963-封-老.pdf  `[PDF·扫描→OCR]`
+- 温柔年华.pdf  `[PDF·文字直读]`
+- 温柔心灵的自白.pdf  `[PDF·扫描→OCR]`
+- 湄公河行动】.pdf  `[PDF·文字直读]`
+- 溜门撬锁的人.pdf  `[PDF·文字直读]`
+- 滚滚红尘_2009-封-老.pdf  `[PDF·扫描→OCR]`
+- 濑户内少年棒球队.pdf  `[PDF·文字直读]`
+- 灵通人士(In+The+Loop)Screenplay.pdf  `[PDF·文字直读]`
+- 炙热.docx  `[docx直读]`
+- 烈日灼人.docx  `[docx直读]`
+- 烈日灼人.pdf  `[PDF·文字直读]`
+- 烈日灼心】.pdf  `[PDF·文字直读]`
+- 烈火战车.docx  `[docx直读]`
+- 焰火.pdf  `[PDF·文字直读]`
+- 父亲与伊藤先生.docx  `[docx直读]`
+- 父亲啊，母亲啊！.pdf  `[PDF·文字直读]`
+- 特丽丝丹娜.pdf  `[PDF·文字直读]`
+- 特殊的一天.docx  `[docx直读]`
+- 牺牲.docx  `[docx直读]`
+- 犬之岛.docx  `[docx直读]`
+- 犬神家族.docx  `[docx直读]`
+- 狂人彼埃罗.pdf  `[PDF·文字直读]`
+- 狂野大自然_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 猎鹿人.pdf  `[PDF·文字直读]`
+- 猜火车.pdf  `[PDF·文字直读]`
+- 玛尔尼.pdf  `[PDF·文字直读]`
+- 现代启示录.docx  `[docx直读]`
+- 现代启示录.pdf  `[PDF·文字直读]`
+- 珠光宝气BlingRing.pdf  `[PDF·文字直读]`
+- 瑞德尔上校.docx  `[docx直读]`
+- 瓦嘉达wadjda_screenplay.pdf  `[PDF·文字直读]`
+- 甜蜜的生活.docx  `[docx直读]`
+- 甜蜜的生活.pdf  `[PDF·文字直读]`
+- 生命之树.pdf  `[PDF·文字直读]`
+- 生命如屋_马克_安德鲁斯.pdf  `[PDF·文字直读]`
+- 生命如屋（上）.pdf  `[PDF·文字直读]`
+- 生命如屋（下）.pdf  `[PDF·文字直读]`
+- 生命的圆圈.docx  `[docx直读]`
+- 生存家族.docx  `[docx直读]`
+- 生死牛玉儒-55扫描.pdf  `[PDF·扫描→OCR]`
+- 生活_别无其他_让_科斯莫.pdf  `[PDF·文字直读]`
+- 生活难.docx  `[docx直读]`
+- 用心棒.docx  `[docx直读]`
+- 电影《再见了_孩子们》剧本 法.pdf  `[PDF·扫描→OCR]`
+- 电影《十二怒汉》剧本.pdf  `[PDF·文字直读]`
+- 电影《失乐园》剧本.doc  `[.doc(需转docx)]`
+- 电影《彼岸花》剧本.doc  `[.doc(需转docx)]`
+- 电影《沉默的  》剧本.pdf  `[PDF·文字直读]`
+- 电影剧本《云水谣》.pdf  `[PDF·文字直读]`
+- 电影剧本《任逍遥》.doc  `[.doc(需转docx)]`
+- 电影剧本《傀儡人生》.pdf  `[PDF·扫描→OCR]`
+- 电影剧本《大鱼》.pdf  `[PDF·扫描→OCR]`
+- 电影剧本《有的和没有的》.pdf  `[PDF·扫描→OCR]`
+- 电影剧本《近乎成名》1.pdf  `[PDF·扫描→OCR]`
+- 电影剧本《风花》.pdf  `[PDF·扫描→OCR]`
+- 电影剧本：《春晓》电子稿.doc  `[.doc(需转docx)]`
+- 男人的故事.docx  `[docx直读]`
+- 男人的烦恼.docx  `[docx直读]`
+- 男子汉们.docx  `[docx直读]`
+- 画师的契约.docx  `[docx直读]`
+- 画师的契约.pdf  `[PDF·文字直读]`
+- 疯狂原始人The Croods.pdf  `[PDF·文字直读]`
+- 白丝带.pdf  `[PDF·文字直读]`
+- 白日美人.docx  `[docx直读]`
+- 白玫瑰.docx  `[docx直读]`
+- 白色的野心.docx  `[docx直读]`
+- 白虎.docx  `[docx直读]`
+- 白衣天使劇本.doc  `[.doc(需转docx)]`
+- 白鹿原最终修订稿.pdf  `[PDF·文字直读]`
+- 目击者.pdf  `[PDF·文字直读]`
+- 看不见的女人theinvisiblewoman_screenplay.pdf  `[PDF·文字直读]`
+- 真人活剧_A_尼科尔.pdf  `[PDF·文字直读]`
+- 真人活剧_续完_A_尼科尔.pdf  `[PDF·文字直读]`
+- 真实的谎言(True.Lies)screenplay.pdf  `[PDF·文字直读]`
+- 眩晕.docx  `[docx直读]`
+- 眩晕.pdf  `[PDF·文字直读]`
+- 码头风云.docx  `[docx直读]`
+- 破浪.docx  `[docx直读]`
+- 破镜.docx  `[docx直读]`
+- 社交网络.docx  `[docx直读]`
+- 社交网络.pdf  `[PDF·文字直读]`
+- 社交网络_阿伦_索金.pdf  `[PDF·文字直读]`
+- 神仙也羡慕.docx  `[docx直读]`
+- 神经近于崩溃的女人.docx  `[docx直读]`
+- 神经近于崩溃的女人.pdf  `[PDF·文字直读]`
+- 神经近于崩溃的女人_佩_阿尔莫多瓦.pdf  `[PDF·文字直读]`
+- 离开拉斯维加斯.pdf  `[PDF·文字直读]`
+- 离开雷锋的日子-47扫描.pdf  `[PDF·扫描→OCR]`
+- 秃鹰.docx  `[docx直读]`
+- 秋天奏鸣曲.docx  `[docx直读]`
+- 秋天奏鸣曲.pdf  `[PDF·文字直读]`
+- 秋天的马拉松.docx  `[docx直读]`
+- 秘密的地方.docx  `[docx直读]`
+- 穆赫兰大道_大卫_林奇.pdf  `[PDF·文字直读]`
+- 穆赫兰道.pdf  `[PDF·文字直读]`
+- 空谈无效.docx  `[docx直读]`
+- 空谈无效.pdf  `[PDF·文字直读]`
+- 穿夏服的夏娃.docx  `[docx直读]`
+- 穿普拉达的女魔头.pdf  `[PDF·文字直读]`
+- 窃贼.docx  `[docx直读]`
+- 第12届奥斯卡最佳编剧(提名) 《妮诺契卡》.pdf  `[PDF·文字直读]`
+- 第12届奥斯最佳影片(提名) 《关山飞渡》电影剧本.pdf  `[PDF·文字直读]`
+- 第13届奥斯卡最佳影片《蝴蝶梦》.pdf  `[PDF·文字直读]`
+- 第14届奥斯卡佳影片《青山翠谷》电影剧本.pdf  `[PDF·文字直读]`
+- 第16届奥斯卡最佳影片 《卡萨布兰卡》电影剧本.pdf  `[PDF·文字直读]`
+- 第16届奥斯卡最佳影片(提名) 《天堂可以等待》.pdf  `[PDF·文字直读]`
+- 第19届奥斯卡最佳原创剧本(提名)《天堂儿女》（上）.pdf  `[PDF·文字直读]`
+- 第19届奥斯卡最佳原创剧本(提名)《天堂儿女》（下）.pdf  `[PDF·文字直读]`
+- 第20届奥斯卡最佳影片奖《君子协定》电影剧本.pdf  `[PDF·文字直读]`
+- 第24届奥斯卡最佳影片(提名)《欲望号街车》.pdf  `[PDF·文字直读]`
+- 第25小时（上）.pdf  `[PDF·文字直读]`
+- 第25小时（下）.pdf  `[PDF·文字直读]`
+- 第28届奥斯卡最佳剧本奖(提名)《无因的反抗》.pdf  `[PDF·文字直读]`
+- 第29届奥斯卡最佳原创剧本(提名)《大路》电影剧本.pdf  `[PDF·文字直读]`
+- 第29届奥斯卡最佳改编剧本(提名)《宝贝儿》电影剧本.pdf  `[PDF·文字直读]`
+- 第35届奥斯卡最佳影片(提名)《杀死一只知更鸟》.pdf  `[PDF·文字直读]`
+- 第36届奥斯卡 最佳外语片《八又二分之一》电影剧本.pdf  `[PDF·文字直读]`
+- 第40届奥斯卡导演奖《毕业生》电影剧本.pdf  `[PDF·文字直读]`
+- 第42届奥斯卡最佳原创剧本奖《虎豹小霸王》电影剧本.pdf  `[PDF·文字直读]`
+- 第43届奥斯最佳外语片(提名) 《特丽丝丹娜》.pdf  `[PDF·文字直读]`
+- 第45届奥斯卡最佳原创剧本(提名)《资产阶级审慎的魅力》.pdf  `[PDF·文字直读]`
+- 第46届奥斯卡最佳导演(提名)《巴黎最后的探戈》电影剧本.pdf  `[PDF·文字直读]`
+- 第4届奥斯卡最佳改编剧本(提名)《小恺撒》.pdf  `[PDF·文字直读]`
+- 第51届奥斯卡最佳影片《猎鹿人》.pdf  `[PDF·文字直读]`
+- 第52届奥斯卡最佳外语片(提名) 《普通的故事》.pdf  `[PDF·文字直读]`
+- 第53届奥斯卡最佳影片 《普通人》.pdf  `[PDF·文字直读]`
+- 第54届奥斯卡最佳外语片(提名) 《船已满员》.pdf  `[PDF·文字直读]`
+- 第54届奥斯卡最佳改编剧本(提名)《法国中尉的女人》电影剧本.pdf  `[PDF·文字直读]`
+- 第54届奥斯卡最佳改编剧本《金色池塘》电影剧本_.pdf  `[PDF·文字直读]`
+- 第58届奥斯卡最佳外语片(提名)《 三个男人和一个摇篮》.pdf  `[PDF·文字直读]`
+- 第58届奥斯卡最佳影片(提名)《目击者》.pdf  `[PDF·文字直读]`
+- 第59届奥斯卡最佳原创剧本(提名)《我美丽的洗衣店》.pdf  `[PDF·文字直读]`
+- 第59届奥斯卡最佳原创剧本(提名)《萨尔瓦多》.pdf  `[PDF·文字直读]`
+- 第59届奥斯卡最佳影片(提名)《汉娜姐妹》.pdf  `[PDF·文字直读]`
+- 第62届奥斯卡最佳影片(提名)《我的左脚》.pdf  `[PDF·文字直读]`
+- 第62届奥斯卡最佳影片(提名)《死亡诗社》.pdf  `[PDF·文字直读]`
+- 第62届奥斯卡最佳影片《为戴茜小姐开车_.pdf  `[PDF·文字直读]`
+- 第63届奥斯卡最佳影片《与狼共舞》.pdf  `[PDF·文字直读]`
+- 第64届奥斯卡最佳原创剧本《塞尔玛与路易丝》.pdf  `[PDF·文字直读]`
+- 第64届奥斯卡最佳外语片奖《地中海》电影剧本.pdf  `[PDF·文字直读]`
+- 第66届奥斯卡最佳原创剧本(提名)《费城故事》.pdf  `[PDF·文字直读]`
+- 第66届奥斯卡最佳影片《辛德勒的名单》.pdf  `[PDF·文字直读]`
+- 第67届奥斯卡最佳影片《阿甘正传》电影剧本.pdf  `[PDF·文字直读]`
+- 第67届奥斯卡金像奖(提名)《肖申克的救赎》电影剧本.pdf  `[PDF·文字直读]`
+- 第68届奥斯卡最佳原创剧本(提名) 《尼克松》（上）.pdf  `[PDF·文字直读]`
+- 第68届奥斯卡最佳原创剧本(提名) 《尼克松》（下）.pdf  `[PDF·文字直读]`
+- 第68届奥斯最佳导演(提名)《离开拉斯维加斯》.pdf  `[PDF·文字直读]`
+- 第69届奥斯卡最佳影片(提名)《冰风暴》.pdf  `[PDF·文字直读]`
+- 第6届奥斯卡最佳影片(提名)《我是越狱犯》.pdf  `[PDF·文字直读]`
+- 第70届奥斯卡最佳影片(提名)《心灵捕手》.pdf  `[PDF·文字直读]`
+- 第70届奥斯卡最佳影片《泰坦尼克号》（上）.pdf  `[PDF·文字直读]`
+- 第70届奥斯卡最佳影片《泰坦尼克号》（下）.pdf  `[PDF·文字直读]`
+- 第71届奥斯卡最佳原创剧本(提名)《楚门的世界》（上）电影剧本.pdf  `[PDF·文字直读]`
+- 第71届奥斯卡最佳原创剧本(提名)《楚门的世界》（下）电影剧本.pdf  `[PDF·文字直读]`
+- 第71届奥斯卡最佳外语片《美丽人生》电影剧本.pdf  `[PDF·扫描→OCR]`
+- 第72届奥斯卡最佳外语片 《关于我母亲的一切}》.pdf  `[PDF·文字直读]`
+- 第72届奥斯卡最佳导演(提名)《傀儡人生》.pdf  `[PDF·扫描→OCR]`
+- 第72届奥斯卡最佳影片(提名) 《绿里奇迹》（上）.pdf  `[PDF·文字直读]`
+- 第72届奥斯卡最佳影片(提名) 《绿里奇迹》（下）.pdf  `[PDF·文字直读]`
+- 第72届奥斯卡最佳影片《美国美人》.pdf  `[PDF·文字直读]`
+- 第73届奥斯卡最佳原创剧本《几近成名》（上）.pdf  `[PDF·文字直读]`
+- 第73届奥斯卡最佳原创剧本《几近成名》（下）.pdf  `[PDF·文字直读]`
+- 第75届奥斯卡金像奖(提名)《 时时刻刻》电影剧本.pdf  `[PDF·文字直读]`
+- 第76届奥斯 最佳影片(提名)《迷失东京》.pdf  `[PDF·扫描→OCR]`
+- 第77届奥斯卡最佳原创剧本《纯洁心灵的永恒阳光》电影剧本.pdf  `[PDF·文字直读]`
+- 第77届奥斯卡最佳外语片(提名) 《帝国的毁灭》电影剧本.pdf  `[PDF·文字直读]`
+- 第77届奥斯卡金像奖(提名) 《杯酒人生》电影剧本.pdf  `[PDF·扫描→OCR]`
+- 第79届奥斯卡 最佳影片(提名)《巴别塔》电影剧本.pdf  `[PDF·文字直读]`
+- 第79届奥斯卡最佳原创剧本《阳光小美女》.pdf  `[PDF·文字直读]`
+- 第79届奥斯卡最佳女主角(提名)《穿普拉达的女魔头》电影剧本.pdf  `[PDF·文字直读]`
+- 第79届奥斯卡金像奖 最佳影片《无间道风云》电影剧本.pdf  `[PDF·扫描→OCR]`
+- 第80届奥斯卡最佳女主角(提名)《柳暗花明》.pdf  `[PDF·文字直读]`
+- 第80届奥斯卡最佳影片(提名)《朱诺》.pdf  `[PDF·扫描→OCR]`
+- 第80届奥斯卡最佳影片《老无所依》.pdf  `[PDF·扫描→OCR]`
+- 第81届奥斯卡 最佳女主角(提名)《换子疑云》.pdf  `[PDF·文字直读]`
+- 第81届奥斯卡最佳原创剧本(提名)《冰冻之河》电影剧本.pdf  `[PDF·文字直读]`
+- 第81届奥斯卡最佳外语片《入殓师》电影剧本.pdf  `[PDF·扫描→OCR]`
+- 第81届奥斯卡最佳影片(提名) 《米尔克》.pdf  `[PDF·文字直读]`
+- 第81届奥斯卡最佳影片(提名)《对话尼克松》电影剧本.pdf  `[PDF·文字直读]`
+- 第81届奥斯卡最佳影片(提名)《朗读者》.pdf  `[PDF·文字直读]`
+- 第81届奥斯卡最佳影片(提名)《本杰明.巴顿奇事》.pdf  `[PDF·文字直读]`
+- 第81届奥斯卡最佳影片《贫民窟的百万富翁》.pdf  `[PDF·文字直读]`
+- 第81届奥斯卡最佳男配角(提名)《革命之路》电影剧本.pdf  `[PDF·文字直读]`
+- 第82届奥斯卡最佳女主角《最后一站》.pdf  `[PDF·文字直读]`
+- 第82届奥斯卡最佳影片(提名)《严肃的男人》.pdf  `[PDF·扫描→OCR]`
+- 第82届奥斯卡最佳影片《拆弹部队》电影剧本.pdf  `[PDF·文字直读]`
+- 第83届奥斯卡最佳原创剧本(提名)《又一年》.pdf  `[PDF·文字直读]`
+- 第83届奥斯卡最佳影片(提名)《冬天的骨头》电影剧本.pdf  `[PDF·文字直读]`
+- 第83届奥斯卡最佳影片(提名)《大地惊雷》电影剧本.pdf  `[PDF·文字直读]`
+- 第83届奥斯卡最佳影片(提名)《社交网络》.pdf  `[PDF·文字直读]`
+- 第83届奥斯卡最佳影片(提名)《黑天鹅》.pdf  `[PDF·文字直读]`
+- 第84届奥斯卡最佳影片《艺术家》.pdf  `[PDF·文字直读]`
+- 第84届奥斯卡最佳改编剧本奖《后人》电影剧本.pdf  `[PDF·文字直读]`
+- 第九连.docx  `[docx直读]`
+- 第九连.pdf  `[PDF·文字直读]`
+- 第八日的蝉.pdf  `[PDF·文字直读]`
+- 第八日的蝉_奥寺佐渡子.pdf  `[PDF·文字直读]`
+- 米尔克.pdf  `[PDF·文字直读]`
+- 精疲力尽.docx  `[docx直读]`
+- 精疲力尽.pdf  `[PDF·文字直读]`
+- 精神病患者.docx  `[docx直读]`
+- 索尔之子.docx  `[docx直读]`
+- 索菲_朔尔最后的日子_弗雷德_布莱纳斯道尔夫.pdf  `[PDF·文字直读]`
+- 索菲_朔尔最后的日子_续完_弗雷德_布莱纳斯道尔夫.pdf  `[PDF·文字直读]`
+- 索菲·朔尔最后的日子（上）.pdf  `[PDF·文字直读]`
+- 索菲·朔尔最后的日子（下）.pdf  `[PDF·文字直读]`
+- 索菲的抉择.docx  `[docx直读]`
+- 紧闭双眼_斯_库布里克_弗_拉斐尔.pdf  `[PDF·文字直读]`
+- 紫日-41扫描.pdf  `[PDF·扫描→OCR]`
+- 絮特的金子.pdf  `[PDF·文字直读]`
+- 红告示.pdf  `[PDF·文字直读]`
+- 红松鼠.docx  `[docx直读]`
+- 红樱黑雪.docx  `[docx直读]`
+- 红胡子.docx  `[docx直读]`
+- 红色天空.pdf  `[PDF·文字直读]`
+- 红色沙漠.(意大利）docx.docx  `[docx直读]`
+- 红高粱-66扫描.pdf  `[PDF·扫描→OCR]`
+- 纯洁心灵的永恒阳光.docx  `[docx直读]`
+- 纯洁的星期六.docx  `[docx直读]`
+- 纳德和西敏：一次别离.docx  `[docx直读]`
+- 纳德和西敏：一次别离.pdf  `[PDF·文字直读]`
+- 纽约的秋天.pdf  `[PDF·扫描→OCR]`
+- 纽约的秋天_阿利森_伯内特.pdf  `[PDF·扫描→OCR]`
+- 细雪.docx  `[docx直读]`
+- 终结者(Terminator)screenplay.pdf  `[PDF·文字直读]`
+- 终结者2：审判日(Terminator.2.Judgment.Day)screenplay.pdf  `[PDF·文字直读]`
+- 绑架.docx  `[docx直读]`
+- 绑架金大中.pdf  `[PDF·文字直读]`
+- 维堡区的故事.docx  `[docx直读]`
+- 维里吉安娜.docx  `[docx直读]`
+- 绿光.docx  `[docx直读]`
+- 绿光.pdf  `[PDF·文字直读]`
+- 绿里.docx  `[docx直读]`
+- 绿里奇迹（上）.pdf  `[PDF·文字直读]`
+- 绿里奇迹（下）.pdf  `[PDF·文字直读]`
+- 缅甸的竖琴.docx  `[docx直读]`
+- 缅甸的竖琴.pdf  `[PDF·文字直读]`
+- 罗生门-34扫描版.pdf  `[PDF·扫描→OCR]`
+- 罗生门.docx  `[docx直读]`
+- 罗生门_文学本、电影剧本、分镜头剧本-115扫描.pdf  `[PDF·扫描→OCR]`
+- 罗科和他的兄弟们.docx  `[docx直读]`
+- 罗莉的心愿_史博公.pdf  `[PDF·文字直读]`
+- 罗莎_卢森堡_郑再新.pdf  `[PDF·文字直读]`
+- 罗莎•卢森堡.docx  `[docx直读]`
+- 罗马11时-电影文学本-.pdf  `[PDF·文字直读]`
+- 罗马11时.docx  `[docx直读]`
+- 罗马假日_中英文-2007-封.pdf  `[PDF·扫描→OCR]`
+- 美丽人生.docx  `[docx直读]`
+- 美丽人生.pdf  `[PDF·文字直读]`
+- 美丽心灵的永恒阳光.docx  `[docx直读]`
+- 美丽心灵的永恒阳光.pdf  `[PDF·文字直读]`
+- 美人鱼】.pdf  `[PDF·文字直读]`
+- 美国丽人.pdf  `[PDF·文字直读]`
+- 美国往事_赛尔乔_莱昂内.pdf  `[PDF·文字直读]`
+- 美国派.pdf  `[PDF·文字直读]`
+- 美国美人.docx  `[docx直读]`
+- 美国美人.pdf  `[PDF·文字直读]`
+- 美术馆旁边的动物园.pdf  `[PDF·文字直读]`
+- 群鸟.docx  `[docx直读]`
+- 群鸟.pdf  `[PDF·文字直读]`
+- 老无所依.docx  `[docx直读]`
+- 老无所依.pdf  `[PDF·扫描→OCR]`
+- 职业的风险.docx  `[docx直读]`
+- 职业：记者.docx  `[docx直读]`
+- 肖尔斯.docx  `[docx直读]`
+- 肖申克的救赎.docx  `[docx直读]`
+- 肖申克的救赎.pdf  `[PDF·文字直读]`
+- 背起爸爸上学-39扫描.pdf  `[PDF·扫描→OCR]`
+- 胜利日的故事.docx  `[docx直读]`
+- 胡丽叶塔.docx  `[docx直读]`
+- 自己人.docx  `[docx直读]`
+- 自相残杀_荒井晴彦_徐怡秋.pdf  `[PDF·文字直读]`
+- 至暗时刻.docx  `[docx直读]`
+- 船已满员.pdf  `[PDF·文字直读]`
+- 良心-54扫描.pdf  `[PDF·扫描→OCR]`
+- 艺术家.pdf  `[PDF·文字直读]`
+- 艺术家_米歇尔_哈扎纳维希乌斯.pdf  `[PDF·文字直读]`
+- 芬妮和亚历山大.pdf  `[PDF·文字直读]`
+- 芬妮的微笑-60扫描.pdf  `[PDF·扫描→OCR]`
+- 花样年华.doc  `[.doc(需转docx)]`
+- 花饰边女工.pdf  `[PDF·文字直读]`
+- 芳妮和亚历山大.docx  `[docx直读]`
+- 苔丝姑娘.docx  `[docx直读]`
+- 英俊少年.docx  `[docx直读]`
+- 英雄制作全纪录_2003-封.pdf  `[PDF·扫描→OCR]`
+- 茉莉花开.pdf  `[PDF·文字直读]`
+- 茹尔宾一家.docx  `[docx直读]`
+- 荒野之地.docx  `[docx直读]`
+- 荒野之地.pdf  `[PDF·文字直读]`
+- 荒野之地_彼得_卢齐克.pdf  `[PDF·文字直读]`
+- 莉莉•玛莲.docx  `[docx直读]`
+- 莫斯科.docx  `[docx直读]`
+- 莫斯科.pdf  `[PDF·文字直读]`
+- 莫斯科不相信眼泪.docx  `[docx直读]`
+- 莫洛赫.docx  `[docx直读]`
+- 菲洛梅娜.docx  `[docx直读]`
+- 菲洛梅娜_史蒂夫_库根_杰夫_波普_吉晓倩.pdf  `[PDF·文字直读]`
+- 菲洛梅娜philomena-screenplay.pdf  `[PDF·文字直读]`
+- 萨姆.docx  `[docx直读]`
+- 萨尔瓦多.docx  `[docx直读]`
+- 萨尔瓦多.pdf  `[PDF·文字直读]`
+- 萨柯和樊塞蒂.docx  `[docx直读]`
+- 落水狗.pdf  `[PDF·文字直读]`
+- 蒙古人.pdf  `[PDF·文字直读]`
+- 蒙古人_阿里夫_阿利耶夫.pdf  `[PDF·文字直读]`
+- 蒲田进行曲.docx  `[docx直读]`
+- 蓝天使.docx  `[docx直读]`
+- 薇罗妮卡·福斯的渴望.pdf  `[PDF·文字直读]`
+- 薇罗妮卡•福斯的渴望.docx  `[docx直读]`
+- 虎胆忠魂.docx  `[docx直读]`
+- 虎豹小霸王.pdf  `[PDF·文字直读]`
+- 蚀.docx  `[docx直读]`
+- 蚀.pdf  `[PDF·文字直读]`
+- 蚕豆公主.docx  `[docx直读]`
+- 蛇蛋.docx  `[docx直读]`
+- 蜘蛛巢城.docx  `[docx直读]`
+- 蝴蝶效应.pdf  `[PDF·文字直读]`
+- 蝴蝶梦.docx  `[docx直读]`
+- 蝴蝶梦.pdf  `[PDF·文字直读]`
+- 血战边境线】.pdf  `[PDF·文字直读]`
+- 血钻.docx  `[docx直读]`
+- 血钻.pdf  `[PDF·扫描→OCR]`
+- 被解放的姜戈.pdf  `[PDF·文字直读]`
+- 被遗忘的长笛曲.docx  `[docx直读]`
+- 裂变.pdf  `[PDF·文字直读]`
+- 西伯利亚理发匠.docx  `[docx直读]`
+- 西伯利亚理发匠（上）.pdf  `[PDF·文字直读]`
+- 西伯利亚理发匠（下）.pdf  `[PDF·文字直读]`
+- 西游降魔篇】.pdf  `[PDF·文字直读]`
+- 西班牙女佣.pdf  `[PDF·扫描→OCR]`
+- 解忧杂货店.docx  `[docx直读]`
+- 警察与小偷.docx  `[docx直读]`
+- 警察与小偷.pdf  `[PDF·扫描→OCR]`
+- 警察分局长的自白.docx  `[docx直读]`
+- 让子弹飞-192扫描版.pdf  `[PDF·扫描→OCR]`
+- 记忆车站.pdf  `[PDF·文字直读]`
+- 论文.docx  `[docx直读]`
+- 论文.pdf  `[PDF·文字直读]`
+- 证人席.docx  `[docx直读]`
+- 证人席.pdf  `[PDF·文字直读]`
+- 诞生.pdf  `[PDF·文字直读]`
+- 误杀.doc  `[.doc(需转docx)]`
+- 误解.docx  `[docx直读]`
+- 请以我的名字呼唤我.pdf  `[PDF·文字直读]`
+- 诺言.docx  `[docx直读]`
+- 调音师.pdf  `[PDF·文字直读]`
+- 豺狼的日子.docx  `[docx直读]`
+- 豺狼的日子_小说、电影剧本-1979-封.pdf  `[PDF·扫描→OCR]`
+- 贝尔法斯特 Belfast (Focus).pdf  `[PDF·文字直读]`
+- 货物200.docx  `[docx直读]`
+- 货物200.pdf  `[PDF·文字直读]`
+- 贫民窟的百万富翁.docx  `[docx直读]`
+- 贫民窟的百万富翁.pdf  `[PDF·文字直读]`
+- 费城_罗恩_奈斯旺内尔.pdf  `[PDF·文字直读]`
+- 费城故事.pdf  `[PDF·文字直读]`
+- 贾樟柯电影《小武》剧本.doc  `[.doc(需转docx)]`
+- 资产阶级审慎的魅力.pdf  `[PDF·文字直读]`
+- 资产阶级隐秘的魅力.docx  `[docx直读]`
+- 赛末点.pdf  `[PDF·文字直读]`
+- 赛点.docx  `[docx直读]`
+- 赛点.pdf  `[PDF·文字直读]`
+- 跳出我天地.docx  `[docx直读]`
+- 跳舞者的时代.docx  `[docx直读]`
+- 踏血寻梅】.pdf  `[PDF·文字直读]`
+- 车祸.docx  `[docx直读]`
+- 车祸.pdf  `[PDF·文字直读]`
+- 轻蔑.pdf  `[PDF·文字直读]`
+- 辛德勒的名单.docx  `[docx直读]`
+- 辛德勒的名单.pdf  `[PDF·文字直读]`
+- 边疆.docx  `[docx直读]`
+- 达拉斯买家俱乐部.pdf  `[PDF·文字直读]`
+- 达拉斯买家俱乐部Dallas Buyers Club.pdf  `[PDF·文字直读]`
+- 过往.docx  `[docx直读]`
+- 过往thepast_screenplay.pdf  `[PDF·文字直读]`
+- 近乎成名_卡梅伦_克劳.pdf  `[PDF·文字直读]`
+- 近乎成名_续完_卡梅伦_克劳.pdf  `[PDF·文字直读]`
+- 这不算伤害.docx  `[docx直读]`
+- 这个杀手不太冷（还原版】.pdf  `[PDF·文字直读]`
+- 远方来的女人.docx  `[docx直读]`
+- 远距离声音，静照生活.docx  `[docx直读]`
+- 远雷.pdf  `[PDF·文字直读]`
+- 迷失东京.pdf  `[PDF·文字直读]`
+- 迷途知返TWWB_script.pdf  `[PDF·文字直读]`
+- 追忆逝水年华.pdf  `[PDF·文字直读]`
+- 追风筝的人.pdf  `[PDF·扫描→OCR]`
+- 逃命.pdf  `[PDF·文字直读]`
+- 逃离德黑兰_克里斯_特里奥.pdf  `[PDF·文字直读]`
+- 透纳先生.docx  `[docx直读]`
+- 途中考验.pdf  `[PDF·文字直读]`
+- 途中考验_埃_伏洛达尔斯基.pdf  `[PDF·文字直读]`
+- 通天塔_吉尔莱莫_阿里阿加.pdf  `[PDF·文字直读]`
+- 通心粉.docx  `[docx直读]`
+- 道路.docx  `[docx直读]`
+- 遗愿清单.pdf  `[PDF·文字直读]`
+- 醉乡民谣.docx  `[docx直读]`
+- 醉乡民谣_乔尔_科恩.pdf  `[PDF·文字直读]`
+- 醉画仙.pdf  `[PDF·文字直读]`
+- 重新开始.docx  `[docx直读]`
+- 野良犬.docx  `[docx直读]`
+- 野草莓.docx  `[docx直读]`
+- 野草莓.pdf  `[PDF·文字直读]`
+- 金刚狼3：殊死一战.docx  `[docx直读]`
+- 金帐汗国(部落）.docx  `[docx直读]`
+- 金盏花大酒店.docx  `[docx直读]`
+- 金色池塘.pdf  `[PDF·文字直读]`
+- 釜山行.pdf  `[PDF·文字直读]`
+- 钢琴师（上）.pdf  `[PDF·文字直读]`
+- 钢琴师（下）.pdf  `[PDF·文字直读]`
+- 钢琴课.pdf  `[PDF·文字直读]`
+- 钤木家的谎言.docx  `[docx直读]`
+- 铁梨花-剧本】.pdf  `[PDF·文字直读]`
+- 铁皮鼓.docx  `[docx直读]`
+- 银河.docx  `[docx直读]`
+- 镜子.docx  `[docx直读]`
+- 镜子.pdf  `[PDF·文字直读]`
+- 长日将尽.docx  `[docx直读]`
+- 闪灵.docx  `[docx直读]`
+- 闪灵.pdf  `[PDF·文字直读]`
+- 闪电狗  英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 闪闪的红星_1975-封.pdf  `[PDF·扫描→OCR]`
+- 阳光姐妹淘】.pdf  `[PDF·文字直读]`
+- 阳光小美女.pdf  `[PDF·文字直读]`
+- 阳光灿烂的日子-81扫描版.pdf  `[PDF·扫描→OCR]`
+- 阿呆与阿瓜.pdf  `[PDF·文字直读]`
+- 阿姆斯特朗谎言thearmstronglie_screenplay.pdf  `[PDF·文字直读]`
+- 阿瑟.pdf  `[PDF·文字直读]`
+- 阿甘正传.pdf  `[PDF·文字直读]`
+- 阿西们的街.docx  `[docx直读]`
+- 陀思妥耶夫斯基的二十六天.docx  `[docx直读]`
+- 隐藏摄影机.pdf  `[PDF·扫描→OCR]`
+- 隧道.docx  `[docx直读]`
+- 雁南飞.docx  `[docx直读]`
+- 雄狮.docx  `[docx直读]`
+- 雨月物语.docx  `[docx直读]`
+- 零用钱.docx  `[docx直读]`
+- 零用钱.pdf  `[PDF·文字直读]`
+- 露露.docx  `[docx直读]`
+- 露露.pdf  `[PDF·文字直读]`
+- 露露__瓦伊达.pdf  `[PDF·文字直读]`
+- 霸王别姬-电影剧本-75扫描版.pdf  `[PDF·扫描→OCR]`
+- 青山翠谷.docx  `[docx直读]`
+- 青春残酷物语.docx  `[docx直读]`
+- 非洲之旅.docx  `[docx直读]`
+- 面面相觑.docx  `[docx直读]`
+- 革命之路.docx  `[docx直读]`
+- 革命之路.pdf  `[PDF·文字直读]`
+- 音乐之声_小说、镜头记录本-1983.pdf  `[PDF·扫描→OCR]`
+- 颤抖的肉体.pdf  `[PDF·文字直读]`
+- 风花.docx  `[docx直读]`
+- 风花.pdf  `[PDF·文字直读]`
+- 风雪黄昏.docx  `[docx直读]`
+- 风雪黄昏.pdf  `[PDF·文字直读]`
+- 马太伊事件.docx  `[docx直读]`
+- 马尔霍兰车道_戴维_林奇.pdf  `[PDF·文字直读]`
+- 驴得水话剧剧本】.pdf  `[PDF·文字直读]`
+- 高加索俘虏.docx  `[docx直读]`
+- 高山下的花环：小说、文学本、剧本-350扫描.pdf  `[PDF·扫描→OCR]`
+- 高跟鞋.docx  `[docx直读]`
+- 魂断威尼斯.docx  `[docx直读]`
+- 魂断威尼斯.pdf  `[PDF·文字直读]`
+- 魔山.docx  `[docx直读]`
+- 魔山.pdf  `[PDF·文字直读]`
+- 鳗鱼.docx  `[docx直读]`
+- 麦泰洛.pdf  `[PDF·文字直读]`
+- 麦秋.docx  `[docx直读]`
+- 麻雀也是鸟.docx  `[docx直读]`
+- 麻风女.docx  `[docx直读]`
+- 黑天鹅.pdf  `[PDF·文字直读]`
+- 黑暗中的舞者.docx  `[docx直读]`
+- 黑暗弥漫.docx  `[docx直读]`
+- 黑海人妖.docx  `[docx直读]`
+- 黑色大丽花.pdf  `[PDF·文字直读]`
+- 黑色手提箱.docx  `[docx直读]`
+- 黑色画集.docx  `[docx直读]`
+- 黑色的白桦树.docx  `[docx直读]`
+- 黑色的白桦树.pdf  `[PDF·文字直读]`
+- 黑衣人.pdf  `[PDF·文字直读]`
+- 黑郁金香.docx  `[docx直读]`
+
+## 爱情(97)
+
+- 《不朽的情侣》电影剧本.docx  `[docx直读]`
+- 《不离婚的女人》电影剧本.docx  `[docx直读]`
+- 《乞力马扎罗的雪（又名《雪山恋》）》电影剧本.docx  `[docx直读]`
+- 《再婚记》电影剧本.docx  `[docx直读]`
+- 《初恋这件小事》.docx  `[docx直读]`
+- 《十诫之六：关于爱情的短片》电影剧本.docx  `[docx直读]`
+- 《合法婚姻》电影剧本.docx  `[docx直读]`
+- 《堕入爱河》电影剧本.docx  `[docx直读]`
+- 《奇爱博士》电影剧本.docx  `[docx直读]`
+- 《寅次郎的故事——大阪之恋》电影剧本.docx  `[docx直读]`
+- 《山楂树之恋》剧本.docx  `[docx直读]`
+- 《布贝的未婚妻》电影剧本.docx  `[docx直读]`
+- 《广岛之恋》剧本.pdf  `[PDF·文字直读]`
+- 《悲情城市》电影剧本.docx  `[docx直读]`
+- 《情与仇》电影剧本.docx  `[docx直读]`
+- 《情书》剧本.docx  `[docx直读]`
+- 《情人》（上）.pdf  `[PDF·文字直读]`
+- 《情人》（下）.pdf  `[PDF·文字直读]`
+- 《我们曾如此相爱》电影剧本.docx  `[docx直读]`
+- 《斯万的一段恋情》电影剧本.docx  `[docx直读]`
+- 《爱》.pdf  `[PDF·文字直读]`
+- 《爱》电影剧本.docx  `[docx直读]`
+- 《爱与希望之街》电影剧本.docx  `[docx直读]`
+- 《爱情》电影剧本.docx  `[docx直读]`
+- 《爱情故事》电影剧本.docx  `[docx直读]`
+- 《珍爱》电影剧本.docx  `[docx直读]`
+- 《理智与情感》电影剧本.docx  `[docx直读]`
+- 《画圣情痴》电影剧本.docx  `[docx直读]`
+- 《相亲相爱》剧本_2.docx  `[docx直读]`
+- 《相爱相亲》剧本.pdf  `[PDF·文字直读]`
+- 《空幻的婚姻》电影剧本.docx  `[docx直读]`
+- 《结婚案内之谜》电影剧本.docx  `[docx直读]`
+- 《至诚相爱》电影剧本.docx  `[docx直读]`
+- 不朽的情侣.docx  `[docx直读]`
+- 不离婚的女人.docx  `[docx直读]`
+- 乞爱者.pdf  `[PDF·文字直读]`
+- 乞爱者_郑义信.pdf  `[PDF·文字直读]`
+- 亡情使者.pdf  `[PDF·扫描→OCR]`
+- 亡情使者_亚历山德罗_卡蒙.pdf  `[PDF·扫描→OCR]`
+- 元首的新娘.docx  `[docx直读]`
+- 可爱的骨头.pdf  `[PDF·文字直读]`
+- 台剧：我可能不会爱你(剧本书).pdf  `[PDF·扫描→OCR]`
+- 合法婚姻.docx  `[docx直读]`
+- 外国电影剧本丛刊 19 广岛之恋 去年在马里安巴德.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 22 恋人曲 新居新人.pdf  `[PDF·扫描→OCR]`
+- 奇爱博士.pdf  `[PDF·文字直读]`
+- 婚姻场景（上）.pdf  `[PDF·文字直读]`
+- 婚姻场景（下）.pdf  `[PDF·文字直读]`
+- 婚姻生活.docx  `[docx直读]`
+- 广岛之恋.docx  `[docx直读]`
+- 恋人们.docx  `[docx直读]`
+- 恋人曲.pdf  `[PDF·文字直读]`
+- 恋恋风尘.pdf  `[PDF·扫描→OCR]`
+- 悲情城市.pdf  `[PDF·扫描→OCR]`
+- 情书.doc  `[.doc(需转docx)]`
+- 情人（上）.pdf  `[PDF·文字直读]`
+- 情人（下）.pdf  `[PDF·文字直读]`
+- 我们曾如此相爱.docx  `[docx直读]`
+- 我最好朋友的婚礼_R_巴斯.pdf  `[PDF·文字直读]`
+- 无爱可诉.docx  `[docx直读]`
+- 杀死汝爱killyourdarlings_screenplay.pdf  `[PDF·文字直读]`
+- 柔情年华.docx  `[docx直读]`
+- 柔情怜意.pdf  `[PDF·文字直读]`
+- 橄榄树下的情人.docx  `[docx直读]`
+- 母女情深.pdf  `[PDF·文字直读]`
+- 滴血钻石_爱德华_兹维克.pdf  `[PDF·扫描→OCR]`
+- 烽火恋人.docx  `[docx直读]`
+- 爱.pdf  `[PDF·文字直读]`
+- 爱_迈克尔_哈内克.pdf  `[PDF·文字直读]`
+- 爱与希望之街.docx  `[docx直读]`
+- 爱尔兰人.docx  `[docx直读]`
+- 爱很复杂.pdf  `[PDF·文字直读]`
+- 爱情.docx  `[docx直读]`
+- 爱情游戏.docx  `[docx直读]`
+- 爱是妥协.pdf  `[PDF·文字直读]`
+- 玛丽亚.布劳恩的婚姻.docx  `[docx直读]`
+- 玛丽亚·布劳恩的婚姻.pdf  `[PDF·文字直读]`
+- 珍爱.pdf  `[PDF·文字直读]`
+- 理智与情感.pdf  `[PDF·文字直读]`
+- 生死恋.pdf  `[PDF·文字直读]`
+- 电影剧本《美国风情画》.pdf  `[PDF·扫描→OCR]`
+- 画圣情痴（伦勃朗）.docx  `[docx直读]`
+- 第46届奥斯卡最佳影片(提名) 《美国风情画》（上）.pdf  `[PDF·文字直读]`
+- 第46届奥斯卡最佳影片(提名) 《美国风情画》（下）.pdf  `[PDF·文字直读]`
+- 第56届奥斯卡最佳影片《母女情深》.pdf  `[PDF·文字直读]`
+- 第71届奥斯卡最佳影片《莎翁情史》.pdf  `[PDF·文字直读]`
+- 第76届奥斯卡最佳女主角(提名)《爱是妥协》.pdf  `[PDF·扫描→OCR]`
+- 第82届奥斯卡奖最佳原创剧本《亡情使者》.pdf  `[PDF·扫描→OCR]`
+- 第82届奥斯卡最佳影片(提名)《珍爱》.pdf  `[PDF·文字直读]`
+- 网络情缘.pdf  `[PDF·文字直读]`
+- 美国风情画（上）.pdf  `[PDF·文字直读]`
+- 美国风情画（下）.pdf  `[PDF·文字直读]`
+- 苦难情侣（意大利）.docx  `[docx直读]`
+- 莎翁情史.docx  `[docx直读]`
+- 莎翁情史.pdf  `[PDF·文字直读]`
+- 迷失.Lost剧本.中英对照.1-3季.词汇解析.爱酷英语.pdf  `[PDF·文字直读]`
+- 遭遇激情-112扫描.pdf  `[PDF·扫描→OCR]`
+
+## 悬疑/犯罪(55)
+
+- [记忆碎片].Memento.(Christopher.Nolan).screenplay(ED2000.COM).pdf  `[PDF·文字直读]`
+- 《一桩预先张扬的谋杀案》电影剧本.docx  `[docx直读]`
+- 《七宗罪》剧本.docx  `[docx直读]`
+- 《东方快车谋杀案》剧本.docx  `[docx直读]`
+- 《东方快车谋杀案》电影剧本.docx  `[docx直读]`
+- 《劫后余生》电影剧本.docx  `[docx直读]`
+- 《唐人街》电影剧本.docx  `[docx直读]`
+- 《唐人街探案2》剧本_PDF密码解除.pdf  `[PDF·文字直读]`
+- 《唐人街探案》剧本.docx  `[docx直读]`
+- 《大明劫》剧本周荣扬编剧版】.pdf  `[PDF·文字直读]`
+- 《大盗方托马斯》电影剧本.docx  `[docx直读]`
+- 《嫌疑人X的现身》剧本.docx  `[docx直读]`
+- 《教父》电影剧本.docx  `[docx直读]`
+- 《教父续集》电影剧本.docx  `[docx直读]`
+- 《无罪神裁法》电影剧本.docx  `[docx直读]`
+- 《替罪羊》电影剧本.docx  `[docx直读]`
+- 《毒品网络》电影剧本.docx  `[docx直读]`
+- 《海和毒药》电影剧本.docx  `[docx直读]`
+- 《罪行始末》电影剧本.docx  `[docx直读]`
+- 《阳光下的罪恶》电影剧本.docx  `[docx直读]`
+- 一桩预先张扬的谋杀案.docx  `[docx直读]`
+- 七宗罪.docx  `[docx直读]`
+- 七宗罪（上）(1).pdf  `[PDF·文字直读]`
+- 七宗罪（上）.pdf  `[PDF·文字直读]`
+- 七宗罪（下）.pdf  `[PDF·文字直读]`
+- 东方快车谋杀案.docx  `[docx直读]`
+- 东邪西毒.pdf  `[PDF·扫描→OCR]`
+- 加勒比海盗  2  亡灵的宝藏  英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 加勒比海盗  3  世界的尽头  英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 劫后良缘.docx  `[docx直读]`
+- 劫持-马尔克斯-1990-封-老.pdf  `[PDF·扫描→OCR]`
+- 唐人街.pdf  `[PDF·文字直读]`
+- 扫毒交易.pdf  `[PDF·文字直读]`
+- 教父.docx  `[docx直读]`
+- 教父续集.docx  `[docx直读]`
+- 教父续集_弗朗西斯_科波拉.pdf  `[PDF·文字直读]`
+- 无罪神裁法.docx  `[docx直读]`
+- 毒品网络.pdf  `[PDF·文字直读]`
+- 浩劫之后_弗_布阿什.pdf  `[PDF·文字直读]`
+- 海和毒药.pdf  `[PDF·文字直读]`
+- 盗窃童心.docx  `[docx直读]`
+- 盗窃童心.pdf  `[PDF·文字直读]`
+- 第47届奥斯卡 最佳影片(提名)《唐人街》电影剧本.pdf  `[PDF·文字直读]`
+- 第68届奥斯卡最佳原创剧本《非常嫌疑犯》（上）.pdf  `[PDF·文字直读]`
+- 第68届奥斯卡最佳原创剧本《非常嫌疑犯》（下）.pdf  `[PDF·文字直读]`
+- 第80届奥斯卡最佳影片(提名)《赎罪》电影剧本.pdf  `[PDF·文字直读]`
+- 绝命毒师电影：续命之徒.docx  `[docx直读]`
+- 谋杀.docx  `[docx直读]`
+- 赎罪.docx  `[docx直读]`
+- 赎罪.pdf  `[PDF·扫描→OCR]`
+- 阳光下的罪恶.docx  `[docx直读]`
+- 非常嫌疑犯.docx  `[docx直读]`
+- 非常嫌疑犯（上）.pdf  `[PDF·文字直读]`
+- 非常嫌疑犯（下）.pdf  `[PDF·文字直读]`
+- 鲨鱼黑帮.txt  `[txt直读]`
+
+## 历史/传记(32)
+
+- 42号传奇42_sp.pdf  `[PDF·文字直读]`
+- Do_《萨利机长》剧本.docx  `[docx直读]`
+- Napoleon‎ 拿破仑.pdf  `[PDF·文字直读]`
+- Nyad 奈德.pdf  `[PDF·文字直读]`
+- Oppenheimer 奥本海默.pdf  `[PDF·文字直读]`
+- Rustin 鲁斯丁.pdf  `[PDF·文字直读]`
+- 《国王的演讲》.pdf  `[PDF·文字直读]`
+- 《国王的演讲》剧本.pdf  `[PDF·文字直读]`
+- 《山中传奇》电影剧本.docx  `[docx直读]`
+- 《日本小偷传奇》电影剧本.docx  `[docx直读]`
+- 《穿普拉达的女王》.pdf  `[PDF·文字直读]`
+- 《萨利机长》剧本.docx  `[docx直读]`
+- 仙女传奇_阎树山.pdf  `[PDF·文字直读]`
+- 冒牌总统.pdf  `[PDF·文字直读]`
+- 国王的演讲.docx  `[docx直读]`
+- 国王的演讲.pdf  `[PDF·文字直读]`
+- 女王.docx  `[docx直读]`
+- 女王.pdf  `[PDF·文字直读]`
+- 总统杀局.pdf  `[PDF·文字直读]`
+- 歌舞青春·东高中传奇  1  乐团大对决_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 歌舞青春·东高中传奇  2  野猫精神周_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 歌舞青春·东高中传奇  3  动感诗篇_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 歌舞青春·东高中传奇  4  关键时刻_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 歌舞青春·东高中传奇  5  百老汇梦想_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 歌舞青春·东高中传奇  6  心连心_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 甘地.docx  `[docx直读]`
+- 电影剧本《冒牌总统》.pdf  `[PDF·扫描→OCR]`
+- 第66届奥斯卡最佳原创剧本(提名)《冒牌总统》.pdf  `[PDF·文字直读]`
+- 第79届奥斯卡金像奖 最佳影片(提名)《女王》电影剧本.pdf  `[PDF·扫描→OCR]`
+- 第83届奥斯卡最佳影片《国王的演讲》电影剧本.pdf  `[PDF·文字直读]`
+- 苏格兰女王玛丽.docx  `[docx直读]`
+- 萨利机长.docx  `[docx直读]`
+
+## 武侠/古装(24)
+
+- Spider-Man Across the Spider-Verse‎ 蜘蛛侠：纵横宇宙.pdf  `[PDF·文字直读]`
+- [蝙蝠侠前传2：黑暗骑士].The.Dark.Knight.(Christopher.Nolan).screenplay(ED2000.COM).pdf  `[PDF·文字直读]`
+- 《刺客聂隐娘》剧本8.pdf  `[PDF·文字直读]`
+- 《原野奇侠》剧本pmovie.pdf  `[PDF·扫描→OCR]`
+- 《末代皇帝》电影剧本.docx  `[docx直读]`
+- 《水中刀》电影剧本.docx  `[docx直读]`
+- 《皇帝不在的八月》电影剧本.docx  `[docx直读]`
+- 《非洲女皇号》电影剧本.docx  `[docx直读]`
+- 上海皇帝 香港影印版.pdf  `[PDF·扫描→OCR]`
+- 刀锋战士Blade.pdf  `[PDF·文字直读]`
+- 剑豪生死斗.docx  `[docx直读]`
+- 外国电影剧本丛刊 05 不毛之地 皇帝不在的八月 啊，野麦岭.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 09 原野奇侠 正午.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 27 七武士 蛛网宫堡.pdf  `[PDF·扫描→OCR]`
+- 外国电影剧本丛刊 49  脑中刀  白玫瑰.pdf  `[PDF·扫描→OCR]`
+- 心迷宫】.pdf  `[PDF·文字直读]`
+- 捉刀人_达_卢凯蒂.pdf  `[PDF·文字直读]`
+- 末代皇帝.docx  `[docx直读]`
+- 水中刀.docx  `[docx直读]`
+- 白宫管家lee-daniels-the-butler-screenplay.pdf  `[PDF·文字直读]`
+- 脑中刀.docx  `[docx直读]`
+- 蛛网宫堡.pdf  `[PDF·文字直读]`
+- 非洲女皇号.docx  `[docx直读]`
+- 非洲女皇号_小说、电影剧本-封-1988.pdf  `[PDF·扫描→OCR]`
+
+## 动作/冒险(16)
+
+- 《两杆大烟枪》电影剧本.docx  `[docx直读]`
+- 《天才枪手》剧本.docx  `[docx直读]`
+- 《天才枪手》剧本.pdf  `[PDF·文字直读]`
+- 《拳击运动员的悲歌》电影剧本.docx  `[docx直读]`
+- 《老枪》电影剧本.docx  `[docx直读]`
+- 《谍魔倩影》电影剧本.docx  `[docx直读]`
+- 两杆大烟枪.docx  `[docx直读]`
+- 两杆大烟枪.pdf  `[PDF·文字直读]`
+- 冰雪大冒险frozen-screenplay.pdf  `[PDF·文字直读]`
+- 功夫_电影剧本.doc  `[.doc(需转docx)]`
+- 功夫熊猫中英对照剧本.pdf  `[PDF·文字直读]`
+- 北非谍影2005-中英文-封-老.pdf  `[PDF·扫描→OCR]`
+- 国家宝藏 夺宝密笈 英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 敢死队1.doc  `[.doc(需转docx)]`
+- 羞羞的铁拳.doc  `[.doc(需转docx)]`
+- 老枪.docx  `[docx直读]`
+
+## 科幻/奇幻(12)
+
+- ET外星人_1985-封.pdf  `[PDF·扫描→OCR]`
+- Elemental‎ 疯狂元素城.pdf  `[PDF·文字直读]`
+- 《当哈利遇到萨莉》剧本.txt  `[txt直读]`
+- 《阿凡达》中文剧本.pdf  `[PDF·文字直读]`
+- 回到未来.pdf  `[PDF·文字直读]`
+- 回忆未来.pdf  `[PDF·文字直读]`
+- 异形2(ALIENS)screenplay.pdf  `[PDF·文字直读]`
+- 星际宝贝_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 电影《黑客帝国》剧本 字幕文件 中英双译.doc  `[.doc(需转docx)]`
+- 电影剧本黑客帝国-二次复兴.doc  `[.doc(需转docx)]`
+- 第58届奥斯卡最佳原创剧本(提名)《回到未来》电影剧本.pdf  `[PDF·文字直读]`
+- 阿凡达(AVATAR)screenplay.pdf  `[PDF·文字直读]`
+
+## 恐怖/惊悚(11)
+
+- 《与幽灵同在的夏天》电影剧本.docx  `[docx直读]`
+- 《凶手——以制度的名义》电影剧本.docx  `[docx直读]`
+- 《恐怖笼罩城市》电影剧本.docx  `[docx直读]`
+- 《死神送客》电影剧本.docx  `[docx直读]`
+- 《追凶者也》剧本.docx  `[docx直读]`
+- 《鬼畜》电影剧本.docx  `[docx直读]`
+- 与幽灵同在的夏天_市川森一.pdf  `[PDF·文字直读]`
+- 凶手.docx  `[docx直读]`
+- 夜访吸血鬼.pdf  `[PDF·文字直读]`
+- 鬼畜.pdf  `[PDF·文字直读]`
+- 魔鬼的美.pdf  `[PDF·文字直读]`
+
+## 战争(10)
+
+- 《敦刻尔克》剧本.pdf  `[PDF·文字直读]`
+- 《集结号》剧本.doc  `[.doc(需转docx)]`
+- 同一场战争.docx  `[docx直读]`
+- 同一场战争.pdf  `[PDF·文字直读]`
+- 后来发生了战争.pdf  `[PDF·文字直读]`
+- 外国电影剧本丛刊 31 我两岁 儿童时代有战争 今天的典子 泥水河.pdf  `[PDF·扫描→OCR]`
+- 战争.pdf  `[PDF·文字直读]`
+- 拯救大兵瑞恩.pdf  `[PDF·文字直读]`
+- 电影《拯救大兵瑞恩》剧本.pdf  `[PDF·文字直读]`
+- 第71届奥斯卡最佳导演《拯救大兵瑞恩》电影剧本.pdf  `[PDF·扫描→OCR]`
+
+## 喜剧(9)
+
+- 《喜剧之王》剧本.docx  `[docx直读]`
+- 《夏洛特烦恼》.pdf  `[PDF·文字直读]`
+- 《大闹天竺》剧本】.pdf  `[PDF·文字直读]`
+- 《疯狂的月亮》电影剧本.docx  `[docx直读]`
+- 《疯狂的石头》剧本.docx  `[docx直读]`
+- 人在囧途.docx  `[docx直读]`
+- 喜剧演员.docx  `[docx直读]`
+- 夏洛特烦恼.doc  `[.doc(需转docx)]`
+- 欢乐城.pdf  `[PDF·文字直读]`
+
+## 动画(8)
+
+- 《疯狂动物城》 剧本.docx  `[docx直读]`
+- 动画电影《红猪》剧本.docx  `[docx直读]`
+- 海底总动员_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 玩具总动员  2_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 美食总动员_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 赛车总动员  英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 超人总动员  英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+- 魔法奇缘  英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+
+## 悬疑/犯罪/科幻/奇幻(8)
+
+- 《盗梦空间》剧本.pdf  `[PDF·文字直读]`
+- 《盗梦空间》电影剧本.docx  `[docx直读]`
+- 盗梦空间 电影剧本.pdf  `[PDF·文字直读]`
+- 盗梦空间.pdf  `[PDF·文字直读]`
+- 盗梦空间_2010-封.pdf  `[PDF·扫描→OCR]`
+- 盗梦空间剧本.doc  `[.doc(需转docx)]`
+- 盗梦空间英文剧本.pdf  `[PDF·文字直读]`
+- 第83届奥斯卡最佳远原创剧本提名《盗梦空间》电影剧本.pdf  `[PDF·文字直读]`
+
+## 爱情/动作/冒险(2)
+
+- 《速度与激情8》剧本.docx  `[docx直读]`
+- 速度与激情8 剧本】.pdf  `[PDF·文字直读]`
+
+## 恐怖/惊悚/爱情(2)
+
+- 人鬼情-黄蜀芹-46.pdf  `[PDF·扫描→OCR]`
+- 爱在午夜降临前beforemidnight_screenplay.pdf  `[PDF·文字直读]`
+
+## 恐怖/惊悚/战争(1)
+
+- 《僵尸大战（2013)》完整中英文对照剧本.docx  `[docx直读]`
+
+## 爱情/武侠/古装(1)
+
+- 刀尖上的柔情_朱赫.pdf  `[PDF·文字直读]`
+
+## 恐怖/惊悚/悬疑/犯罪(1)
+
+- 加勒比海盗：鬼盗船魔咒_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
+
+## 爱情/喜剧(1)
+
+- 喜剧 爱妻物语.docx  `[docx直读]`
+
+## 科幻/奇幻/动画(1)
+
+- 机器人总动员_英汉对照-2009-封.pdf  `[PDF·扫描→OCR]`
